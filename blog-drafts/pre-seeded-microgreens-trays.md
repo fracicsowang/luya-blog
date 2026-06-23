@@ -9,7 +9,7 @@ author: Luya Editorial
 read_time: "6 min"
 hero_image_prompt: "A photorealistic close-up of a clean countertop kitchen at golden hour, a sleek minimalist appliance with a fresh tray of vibrant green microgreens sliding into it, soft morning light, shallow depth of field, warm and inviting, no text, no watermark"
 image_alt: "A pre-seeded microgreens tray being dropped into a countertop growing appliance"
-image: "/blog/img/hero-pre-seeded-microgreens-trays.webp"
+image: "/img/hero-pre-seeded-microgreens-trays.webp"
 date: 2026-01-01
 ---
 If you've ever wanted fresh greens on your counter but bailed at the thought of soil, watering schedules, and mold, you're the reason the pre-seeded microgreens tray exists. The idea is simple: the seeds are already laid out in a ready-to-grow tray, you drop it into an appliance, and a week or so later you're snipping fresh microgreens onto your eggs. No measuring, no mess, no guesswork.
@@ -26,9 +26,9 @@ The Luya trays are US-made and shelf-stable for about a year, so you can keep a 
 
 That last part matters more than it sounds. Seeding density is one of the quietest causes of failure in DIY growing. Too sparse and you get a thin, sad harvest; too crowded and you get poor airflow, which invites mold. A pre-seeded tray takes that variable off your plate entirely.
 
-![Pre-Seeded Microgreens Tray — photo 1](/blog/img/pre-seeded-microgreens-trays-img1.webp)
+![Pre-Seeded Microgreens Tray — photo 1](/img/pre-seeded-microgreens-trays-img1.webp)
 
-If you're new to the category, our primer on [what microgreens are](/blog/what-are-microgreens/) is a good companion read—it covers why these tiny greens punch so far above their size.
+If you're new to the category, our primer on [what microgreens are](/what-are-microgreens/) is a good companion read—it covers why these tiny greens punch so far above their size.
 
 ## Why "Easy as Coffee" Solves the Two Real Problems
 
@@ -48,7 +48,7 @@ Manual growing has a real failure rate, and it's almost always a consistency pro
 
 The alternative—buying microgreens—has its own headaches. A 2 oz clamshell runs about \$4 to \$6, which works out to roughly \$30 to \$50 per pound. And by the time it reaches your fridge, it has already spent days moving from farm to truck to warehouse to store. Microgreens wilt fast, so a good chunk of what you buy ends up in the trash.
 
-We dig into this more in our breakdown of why [store-bought microgreens are expensive and not fresh](/blog/store-bought-microgreens-expensive-not-fresh/). The short version: you're paying a premium for produce that's already past its peak.
+We dig into this more in our breakdown of why [store-bought microgreens are expensive and not fresh](/store-bought-microgreens-expensive-not-fresh/). The short version: you're paying a premium for produce that's already past its peak.
 
 ## How the Tray-Plus-Appliance System Works
 
@@ -63,7 +63,7 @@ Here's the workflow with the Luya X countertop "food computer," a roughly 17" ta
 
 Because the chamber is sealed, climate-controlled, and ventilated, it keeps mold out by design rather than by your vigilance. That's the whole "like a Nespresso, but for greens" idea: the system absorbs the work, you keep the freshness. And because each tray is shelf-stable for about a year, "starting a grow" is a thirty-second decision, not a shopping trip—you keep a few trays in a drawer the way you'd keep coffee pods in a cupboard.
 
-![Pre-Seeded Microgreens Tray — photo 2](/blog/img/pre-seeded-microgreens-trays-img2.webp)
+![Pre-Seeded Microgreens Tray — photo 2](/img/pre-seeded-microgreens-trays-img2.webp)
 
 It's worth being clear about what the appliance does *not* do. It won't make a worse seed grow better, and it won't speed up biology—a 7 to 10 day broccoli cycle is still a 7 to 10 day cycle. What it removes is the variance: the forgotten watering, the warm afternoon that tips a crowded tray into mold, the guesswork about when to harvest. Consistency, not magic, is the product.
 
@@ -85,7 +85,7 @@ Pre-seeded trays shine with the crops that are both beginner-friendly and nutrie
 
 The nutrition is the reason this is worth the counter space. Peer-reviewed reviews (MDPI *Plants*) and USDA data put microgreens at roughly 2 to 3.5 times more nutrient-dense than their full-grown counterparts, with radish microgreens often topping the list. They're also rich in vitamins C, K, and E and a range of antioxidants and polyphenols.
 
-Broccoli microgreens are the headline act for sulforaphane—an isothiocyanate that forms when you chew or chop the greens, activating the body's Nrf2 antioxidant pathway. Johns Hopkins research found that young broccoli contains on the order of 10 to 100 times more of the sulforaphane precursor than mature heads, with broccoli microgreens reported around 633 mg of total sulforaphane per 100 g fresh. If that's new to you, [what sulforaphane is](/blog/what-is-sulforaphane/) explains it clearly, and our [broccoli microgreens](/blog/broccoli-microgreens/) guide goes deeper on the crop itself. Pea shoots, meanwhile, are a quietly excellent plant-based protein source—up to roughly 35% protein by weight.
+Broccoli microgreens are the headline act for sulforaphane—an isothiocyanate that forms when you chew or chop the greens, activating the body's Nrf2 antioxidant pathway. Johns Hopkins research found that young broccoli contains on the order of 10 to 100 times more of the sulforaphane precursor than mature heads, with broccoli microgreens reported around 633 mg of total sulforaphane per 100 g fresh. If that's new to you, [what sulforaphane is](/what-is-sulforaphane/) explains it clearly, and our [broccoli microgreens](/broccoli-microgreens/) guide goes deeper on the crop itself. Pea shoots, meanwhile, are a quietly excellent plant-based protein source—up to roughly 35% protein by weight.
 
 | Crop | Germination | Harvest | Known for |
 | --- | --- | --- | --- |
@@ -100,4 +100,4 @@ The payoff of growing at home isn't just convenience—it's that you eat them at
 
 A pre-seeded microgreens tray takes the two things that make home growing fail—daily upkeep and inconsistency—and engineers them out. Pair it with a sealed, automated appliance and you get the freshness of homegrown greens with the effort of brewing a cup of coffee. No soil on the counter, no fuzzy trays, no \$5 clamshells wilting in the fridge.
 
-If that sounds like the kind of habit you'd actually keep, see [how Luya works](/how-it-works) and the tray-based system in action. And if you're curious which greens to start with, our guide to the [easiest microgreens to grow](/blog/easiest-microgreens-to-grow/) is the perfect next step.
+If that sounds like the kind of habit you'd actually keep, see [how Luya works](https://luyaxyz.com/how-it-works) and the tray-based system in action. And if you're curious which greens to start with, our guide to the [easiest microgreens to grow](/easiest-microgreens-to-grow/) is the perfect next step.

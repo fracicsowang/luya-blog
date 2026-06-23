@@ -11,7 +11,7 @@ medical_disclaimer: true
 read_time: "6 min"
 hero_image_prompt: "photorealistic close-up of a wooden bowl overflowing with vibrant red radish, green pea, and broccoli microgreens on a sunlit kitchen counter, soft morning light, shallow depth of field, fresh dewy leaves, no text, no watermark"
 image_alt: "A wooden bowl of fresh microgreens illustrating microgreens nutrition and density"
-image: "/blog/img/hero-microgreens-nutrition.webp"
+image: "/img/hero-microgreens-nutrition.webp"
 date: 2026-06-25
 ---
 *This article is for general education only and is not medical advice. Talk with your doctor before making changes to your diet, especially if you have a health condition or take medication.*
@@ -28,7 +28,7 @@ At the seedling stage the plant is running on a concentrated burst of stored ene
 
 Across many studies, microgreens come in around **2 to 3.5 times more nutrient-dense** than their mature versions, with radish microgreens frequently landing at the high end. The advantage tends to show up across a range of nutrients rather than a single one, which is part of what makes them interesting nutritionally.
 
-![Chart: microgreens are 2-3.5x more nutrient-dense than mature greens](/blog/img/charts/nutrient-density.svg)
+![Chart: microgreens are 2-3.5x more nutrient-dense than mature greens](/img/charts/nutrient-density.svg)
 
 Microgreens are particularly rich in:
 
@@ -47,9 +47,9 @@ Here's how a few popular varieties compare on their standout traits:
 | Red cabbage | Antioxidants/polyphenols | Studied in early cholesterol research |
 | Sunflower | Vitamin E, healthy fats | Mild, nutty, beginner-friendly |
 
-It's worth being honest about one limit: these are relative comparisons by weight. A handful of microgreens is light, so you won't out-eat a full plate of broccoli on total volume. The point isn't to replace mature vegetables — it's that a small, easy-to-add garnish can punch well above its size. If you're newer to the topic, our overview of [what are microgreens](/blog/what-are-microgreens/) is a helpful starting point, and are microgreens good for you weighs the evidence in plain terms.
+It's worth being honest about one limit: these are relative comparisons by weight. A handful of microgreens is light, so you won't out-eat a full plate of broccoli on total volume. The point isn't to replace mature vegetables — it's that a small, easy-to-add garnish can punch well above its size. If you're newer to the topic, our overview of [what are microgreens](/what-are-microgreens/) is a helpful starting point, and are microgreens good for you weighs the evidence in plain terms.
 
-![Microgreens Nutrition — photo 1](/blog/img/microgreens-nutrition-img1.webp)
+![Microgreens Nutrition — photo 1](/img/microgreens-nutrition-img1.webp)
 
 ## The Standout Compounds Worth Knowing
 
@@ -94,7 +94,7 @@ The best microgreen nutrition profile in the world doesn't help if the greens wi
 
 For ideas beyond a basic garnish, our guide to how to eat microgreens covers simple, practical ways to fold them into meals you already make.
 
-![Microgreens Nutrition — photo 2](/blog/img/microgreens-nutrition-img2.webp)
+![Microgreens Nutrition — photo 2](/img/microgreens-nutrition-img2.webp)
 
 The catch with nutrition this fragile is freshness. Store-bought microgreens often spend days traveling from farm to truck to warehouse to store shelf before they reach you, and they wilt fast once home — which is part of why a $4-6 clamshell can feel like a poor deal. Growing your own, or using a system that keeps the greens alive until you harvest, is the most reliable way to eat them at their nutritional peak.
 
@@ -102,7 +102,7 @@ The catch with nutrition this fragile is freshness. Store-bought microgreens oft
 
 Microgreens nutrition isn't hype. These small leaves concentrate vitamins, antioxidants, and well-studied compounds into a form that's easy to add to almost any meal. The science is genuine, even where it's still early — and the simplest way to benefit is to eat them often, fresh, and raw.
 
-That's exactly the problem Luya was built to solve. Our countertop grower keeps microgreens alive and growing right on your counter, so you harvest only what you need, seconds before eating — no wilting, no waste, no daily fuss. See [how it works](/how-it-works/), and if you're curious which crop to try first, start with easiest microgreens to grow.
+That's exactly the problem Luya was built to solve. Our countertop grower keeps microgreens alive and growing right on your counter, so you harvest only what you need, seconds before eating — no wilting, no waste, no daily fuss. See how it works, and if you're curious which crop to try first, start with easiest microgreens to grow.
 
 ### Selected sources
 

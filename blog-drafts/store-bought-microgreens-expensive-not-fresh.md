@@ -9,7 +9,7 @@ author: "Luya Editorial"
 read_time: "6 min"
 hero_image_prompt: "Close-up of a plastic clamshell of slightly wilted microgreens on a grocery store refrigerated shelf, realistic, cool store lighting — decorative photo, no text"
 image_alt: "Plastic clamshell of microgreens on a grocery store shelf"
-image: "/blog/img/hero-store-bought-microgreens-expensive-not-fresh.webp"
+image: "/img/hero-store-bought-microgreens-expensive-not-fresh.webp"
 date: 2026-01-01
 ---
 If you love microgreens but wince at the checkout, you're not imagining it. A tiny 2 oz clamshell routinely runs **$4 to $6** — which works out to **$30–$50 per pound**, putting these baby greens among the most expensive produce in the store. And too often, they're already past their best by the time you get them home.
@@ -27,7 +27,7 @@ The high price isn't a markup conspiracy — microgreens are genuinely expensive
 
 Put it on a chart and the gap is stark:
 
-![Bar chart comparing the cost per pound of store-bought microgreens ($30–50) versus grown at home ($5–10)](/blog/img/charts/cost-store-vs-grow.svg)
+![Bar chart comparing the cost per pound of store-bought microgreens ($30–50) versus grown at home ($5–10)](/img/charts/cost-store-vs-grow.svg)
 
 That long supply chain is also why freshness suffers.
 
@@ -46,7 +46,7 @@ By the time a clamshell reaches you, it has often spent several days to a week i
 
 You're frequently paying premium prices for greens already days past their prime. The sad, slightly slimy clamshell shoved to the back of the fridge is a familiar sight for anyone who buys microgreens regularly — and because they spoil so fast, much of what you buy never gets eaten, which makes the *effective* cost even higher.
 
-![Store Bought Microgreens Expensive — photo 1](/blog/img/store-bought-microgreens-expensive-not-fresh-img1.webp)
+![Store Bought Microgreens Expensive — photo 1](/img/store-bought-microgreens-expensive-not-fresh-img1.webp)
 
 ## What you're really paying for
 
@@ -58,17 +58,17 @@ For a food prized specifically for being fresh and nutrient-dense, that's a frus
 
 The structural problem is the supply chain — distance and time between harvest and plate. The fix is to **shrink that distance to zero**: grow them where you eat them, and harvest only what you need, when you need it.
 
-That's exactly what [Luya](/) is built for. It's a countertop grower that turns a pre-seeded tray into a fresh harvest right on your counter:
+That's exactly what [Luya](https://luyaxyz.com/) is built for. It's a countertop grower that turns a pre-seeded tray into a fresh harvest right on your counter:
 
 - **Harvested seconds before eating** — peak flavor and nutrition, with none of the transit-and-shelf decay.
 - **Dramatically cheaper per serving.** A pre-seeded tray costs a few dollars and yields the equivalent of several store clamshells — without the spoilage you're throwing away.
 - **No wilting, no waste.** You cut what you need and the rest keeps growing, alive, until you do.
 - **No plastic clamshells** headed for the trash.
 
-![Store Bought Microgreens Expensive — photo 2](/blog/img/store-bought-microgreens-expensive-not-fresh-img2.webp)
+![Store Bought Microgreens Expensive — photo 2](/img/store-bought-microgreens-expensive-not-fresh-img2.webp)
 
 Microgreens earned their reputation by being fresh and nutrient-dense. The store version too often delivers neither — at a premium price. Growing them at your counter restores both, and costs less over time.
 
 ---
 
-*Tired of paying $5 for half-dead greens? [See how Luya grows fresh microgreens on your counter →](/how-it-works). Curious about the nutrition you're missing? Read [What Is Sulforaphane?](/blog/what-is-sulforaphane/).*
+*Tired of paying $5 for half-dead greens? [See how Luya grows fresh microgreens on your counter →](https://luyaxyz.com/how-it-works). Curious about the nutrition you're missing? Read [What Is Sulforaphane?](/what-is-sulforaphane/).*

@@ -11,7 +11,7 @@ read_time: "6 min"
 medical_disclaimer: true
 hero_image_prompt: "A photorealistic overhead kitchen counter scene with three small white bowls side by side holding pale germinated sprouts, vivid green microgreens, and a head of mature broccoli, soft natural morning light, shallow depth of field, no text, no watermark"
 image_alt: "Microgreens vs sprouts vs mature vegetables compared side by side on a kitchen counter"
-image: "/blog/img/hero-microgreens-vs-sprouts.webp"
+image: "/img/hero-microgreens-vs-sprouts.webp"
 date: 2026-01-01
 ---
 *This article is for general education and is not medical advice. Talk to your doctor before making changes for a specific health condition.*
@@ -41,21 +41,21 @@ The cleanest way to settle the **microgreens vs sprouts** question is to look at
 
 That "what you eat" row matters more than it looks. Because a sprout is eaten whole, root and seed included, after days in warm standing moisture, sprouts carry a higher food-safety risk than microgreens, whose edible tops are cut cleanly above the growing surface. It doesn't make sprouts dangerous, but it does mean source and hygiene matter a great deal.
 
-![Microgreens Vs Sprouts — photo 1](/blog/img/microgreens-vs-sprouts-img1.webp)
+![Microgreens Vs Sprouts — photo 1](/img/microgreens-vs-sprouts-img1.webp)
 
 ## The Nutrition Gap Is Bigger Than You'd Think
 
 Here's where the comparison gets genuinely interesting. Younger plants pack a surprising amount of nutrition into a tiny package, and microgreens are the standout of the three.
 
-Peer-reviewed reviews (including work published in MDPI *Plants*) alongside USDA data suggest microgreens are roughly **2 to 3.5 times more nutrient-dense** than their mature counterparts, with radish microgreens frequently topping the charts. Across the board they're rich in vitamins C, K, and E, plus the antioxidants and polyphenols that give them their deep color. If you want the full breakdown, our guide to [microgreens nutrition](/blog/microgreens-nutrition/) lays it out crop by crop, and [are microgreens good for you](/blog/are-microgreens-good-for-you/) tackles the question head-on.
+Peer-reviewed reviews (including work published in MDPI *Plants*) alongside USDA data suggest microgreens are roughly **2 to 3.5 times more nutrient-dense** than their mature counterparts, with radish microgreens frequently topping the charts. Across the board they're rich in vitamins C, K, and E, plus the antioxidants and polyphenols that give them their deep color. If you want the full breakdown, our guide to [microgreens nutrition](/microgreens-nutrition/) lays it out crop by crop, and [are microgreens good for you](/are-microgreens-good-for-you/) tackles the question head-on.
 
 The most dramatic example is broccoli. Research from Johns Hopkins found that young broccoli (both microgreens and sprouts) can contain **10 to 100 times more** of the sulforaphane precursor than a mature broccoli head. Broccoli microgreens have been reported to hold around **633 mg of total sulforaphane per 100g** of fresh weight, a concentration a full-grown head can't reach.
 
-![Chart: microgreens are 2-3.5x more nutrient-dense than mature greens](/blog/img/charts/nutrient-density.svg)
+![Chart: microgreens are 2-3.5x more nutrient-dense than mature greens](/img/charts/nutrient-density.svg)
 
 Sulforaphane is worth knowing by name. It's an isothiocyanate that forms when a compound called glucoraphanin meets an enzyme called myrosinase, a reaction triggered the moment you chew or chop the plant. Once formed, it activates the body's Nrf2 pathway, part of your natural antioxidant and detox machinery. Researchers are actively studying it for blood-sugar regulation, inflammation, and cellular defense, but it's important to be precise: this is research-stage science, not a proven cure for anything.
 
-One practical takeaway follows directly from that chemistry: heat degrades myrosinase, so overcooking can quietly cancel the benefit. Raw, fresh, and well-chewed delivers the most sulforaphane, which is one more point in the microgreen's favor since they're eaten raw by default. For the deeper dive, see our explainer on [what sulforaphane is and why it matters](/blog/what-is-sulforaphane/).
+One practical takeaway follows directly from that chemistry: heat degrades myrosinase, so overcooking can quietly cancel the benefit. Raw, fresh, and well-chewed delivers the most sulforaphane, which is one more point in the microgreen's favor since they're eaten raw by default. For the deeper dive, see our explainer on [what sulforaphane is and why it matters](/what-is-sulforaphane/).
 
 It isn't only about broccoli, either. Pea shoots are a strong plant-based protein source, running up to about **35% protein by weight**. And in one USDA animal (mouse) study, red cabbage microgreens were associated with roughly a **34% reduction in LDL cholesterol** along with reduced weight gain and lower inflammatory markers. That's encouraging early research, not human proof, but it helps explain why this category attracts so much attention.
 
@@ -78,13 +78,13 @@ There's no single winner here. The right choice depends on what you actually wan
 
 For most health-conscious eaters, microgreens land in the sweet spot, which raises the obvious question: where do you actually get them fresh?
 
-![Microgreens Vs Sprouts — photo 2](/blog/img/microgreens-vs-sprouts-img2.webp)
+![Microgreens Vs Sprouts — photo 2](/img/microgreens-vs-sprouts-img2.webp)
 
 ### The freshness problem
 
-Store-bought microgreens have two stubborn drawbacks. First, they're **expensive**, often $4 to $6 for a tiny 2 oz clamshell, which works out to roughly $30 to $50 per pound. Second, they're frequently **not very fresh**: by the time they move from farm to truck to warehouse to store shelf, they've burned through days of shelf life and tend to wilt within a day or two of getting home. We dig into both in [why store-bought microgreens are expensive and not fresh](/blog/store-bought-microgreens-expensive-not-fresh/).
+Store-bought microgreens have two stubborn drawbacks. First, they're **expensive**, often $4 to $6 for a tiny 2 oz clamshell, which works out to roughly $30 to $50 per pound. Second, they're frequently **not very fresh**: by the time they move from farm to truck to warehouse to store shelf, they've burned through days of shelf life and tend to wilt within a day or two of getting home. We dig into both in [why store-bought microgreens are expensive and not fresh](/store-bought-microgreens-expensive-not-fresh/).
 
-Growing your own fixes the cost and freshness math, but it swaps in a different set of headaches: mold from too much moisture and poor airflow, the mess of handling soil, and the daily watering a tray demands across its roughly 10-day cycle. Leave for a weekend or hit a busy week, and a tray can fail. That failure rate is real, and it's why a lot of enthusiastic first-time growers quietly give up. Our notes on [why microgreens keep molding](/blog/why-microgreens-keep-molding/) cover the most common culprits.
+Growing your own fixes the cost and freshness math, but it swaps in a different set of headaches: mold from too much moisture and poor airflow, the mess of handling soil, and the daily watering a tray demands across its roughly 10-day cycle. Leave for a weekend or hit a busy week, and a tray can fail. That failure rate is real, and it's why a lot of enthusiastic first-time growers quietly give up. Our notes on [why microgreens keep molding](/why-microgreens-keep-molding/) cover the most common culprits.
 
 That gap, between greens that are too expensive and not fresh on one side, and DIY trays that are finicky and high-maintenance on the other, is exactly what we built Luya to close.
 
@@ -92,7 +92,7 @@ That gap, between greens that are too expensive and not fresh on one side, and D
 
 Luya is a countertop "food computer" that grows fresh microgreens automatically. You drop in a pre-seeded tray, and a sealed, climate-controlled chamber handles the temperature, watering, and airflow that normally invite mold and mess. You harvest only what you need, seconds before eating, and the rest keeps growing alive on the counter. Think of it like a Nespresso, but for greens.
 
-If you're weighing your options, see exactly [how it works](/how-it-works/), then read our deep dive on [microgreens nutrition](/blog/microgreens-nutrition/) to decide what's worth growing first.
+If you're weighing your options, see exactly [how it works](/how-it-works/), then read our deep dive on [microgreens nutrition](/microgreens-nutrition/) to decide what's worth growing first.
 
 ### Selected sources
 

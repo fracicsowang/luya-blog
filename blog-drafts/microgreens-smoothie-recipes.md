@@ -9,7 +9,7 @@ author: Luya Editorial
 read_time: "6 min"
 hero_image_prompt: A bright kitchen counter with a glass of vibrant green smoothie surrounded by small trays of fresh microgreens, sliced fruit, and a blender in soft morning light, photorealistic, no text, no watermark
 image_alt: A microgreens smoothie in a tall glass beside fresh trays of microgreens and fruit
-image: "/blog/img/hero-microgreens-smoothie-recipes.webp"
+image: "/img/hero-microgreens-smoothie-recipes.webp"
 date: 2026-01-01
 ---
 If you want an easy way to eat more greens, a microgreens smoothie is one of the smartest places to start. A small handful of microgreens disappears into the flavor of fruit and yogurt, yet it adds a real nutrient boost: microgreens are roughly 2 to 3.5 times more nutrient-dense than their full-grown counterparts. Blending also does some of the work for you, breaking down cell walls so your body can reach more of what is inside.
@@ -22,9 +22,9 @@ Microgreens are young vegetable greens harvested just after the first true leave
 
 A smoothie is also the most forgiving way to eat them. Raw, the flavors range from mild and grassy to peppery. Fruit, yogurt, and a little citrus round those edges off completely, so even sharp crops like radish blend in without dominating. If you have ever bought a clamshell of microgreens, used a tablespoon as a garnish, and watched the rest wilt in the fridge, a smoothie is the answer: it lets you use a full handful at once, before they have any chance to turn.
 
-There is a practical bonus too. Blending and chewing help release beneficial compounds. In broccoli microgreens, for example, sulforaphane forms only when the plant's glucoraphanin meets an enzyme called myrosinase as the tissue is broken down. Blending raw greens supports that process, while heavy cooking degrades the enzyme. If you want the deeper science, see our guide to [what sulforaphane is](/blog/what-is-sulforaphane/) and how to [maximize sulforaphane](/blog/maximize-sulforaphane/) at home.
+There is a practical bonus too. Blending and chewing help release beneficial compounds. In broccoli microgreens, for example, sulforaphane forms only when the plant's glucoraphanin meets an enzyme called myrosinase as the tissue is broken down. Blending raw greens supports that process, while heavy cooking degrades the enzyme. If you want the deeper science, see our guide to [what sulforaphane is](/what-is-sulforaphane/) and how to [maximize sulforaphane](/maximize-sulforaphane/) at home.
 
-![Microgreens Smoothie — photo 1](/blog/img/microgreens-smoothie-recipes-img1.webp)
+![Microgreens Smoothie — photo 1](/img/microgreens-smoothie-recipes-img1.webp)
 
 ## The Best Microgreens to Blend
 
@@ -50,7 +50,7 @@ A useful way to choose is to match the crop to your goal. Here is the same short
 | The biggest nutrient bump | Radish | Most nutrient-dense; use sparingly, it bites |
 | Color and antioxidants | Red cabbage | Turns the whole drink a deep violet |
 
-For a crop-by-crop breakdown, our pages on [broccoli microgreens](/blog/broccoli-microgreens/), [radish microgreens](/blog/radish-microgreens/), and [pea shoots](/blog/pea-shoots/) go deeper.
+For a crop-by-crop breakdown, our pages on [broccoli microgreens](/broccoli-microgreens/), [radish microgreens](/radish-microgreens/), and [pea shoots](/pea-shoots/) go deeper.
 
 ## Five Microgreens Smoothie Recipes
 
@@ -106,9 +106,9 @@ A striking color and a smooth, mellow taste.
 
 A quick ratio to remember: for one serving, use about one to two cups of liquid, one cup of fruit, and a half cup of mild microgreens (a quarter cup for peppery crops). That balance keeps the drink smooth without an overpowering green flavor. Think of fruit and yogurt as the carrier and the greens as the booster, not the base. If a blend tastes too "green," do not add more fruit, which only dilutes; instead pull the greens back to a quarter cup next time and add a squeeze of citrus, which brightens rather than sweetens.
 
-You can also build a habit around batching. Wash and dry a few servings of microgreens, portion them into a muffin tray, and freeze. A frozen puck drops straight into the blender and skips the ice, so the drink stays cold and the greens stay vivid. Freezing does soften the texture, but it preserves the vitamins and the glucoraphanin, and the chewing-and-blending step that releases sulforaphane still happens the moment you drink it. For more ideas beyond the blender, see [how to eat microgreens](/blog/how-to-eat-microgreens/) and our [microgreens salad ideas](/blog/microgreens-salad-ideas/).
+You can also build a habit around batching. Wash and dry a few servings of microgreens, portion them into a muffin tray, and freeze. A frozen puck drops straight into the blender and skips the ice, so the drink stays cold and the greens stay vivid. Freezing does soften the texture, but it preserves the vitamins and the glucoraphanin, and the chewing-and-blending step that releases sulforaphane still happens the moment you drink it. For more ideas beyond the blender, see [how to eat microgreens](/how-to-eat-microgreens/) and our [microgreens salad ideas](/microgreens-salad-ideas/).
 
-![Microgreens Smoothie — photo 2](/blog/img/microgreens-smoothie-recipes-img2.webp)
+![Microgreens Smoothie — photo 2](/img/microgreens-smoothie-recipes-img2.webp)
 
 ## Tips for the Smoothest, Freshest Result
 
@@ -125,6 +125,6 @@ Growing them yourself solves both problems on paper, and it is genuinely satisfy
 
 ## Bring It All Together
 
-The best microgreens smoothie is the one you actually make, again and again, because the greens are always on hand and always fresh. That is exactly the gap [Luya](/how-it-works) is built to close. Luya is a countertop appliance, a little like a Nespresso but for greens: you drop in a pre-seeded tray, and a sealed, climate-controlled chamber grows fresh microgreens in about 7 to 10 days, with no mold, no mess, and no daily chores. You harvest only what you need for today's blend, and the rest keeps growing alive on your counter.
+The best microgreens smoothie is the one you actually make, again and again, because the greens are always on hand and always fresh. That is exactly the gap [Luya](https://luyaxyz.com/how-it-works) is built to close. Luya is a countertop appliance, a little like a Nespresso but for greens: you drop in a pre-seeded tray, and a sealed, climate-controlled chamber grows fresh microgreens in about 7 to 10 days, with no mold, no mess, and no daily chores. You harvest only what you need for today's blend, and the rest keeps growing alive on your counter.
 
-Want to keep learning? Start with [are microgreens good for you](/blog/are-microgreens-good-for-you/) to see what all those nutrients add up to.
+Want to keep learning? Start with [are microgreens good for you](/are-microgreens-good-for-you/) to see what all those nutrients add up to.

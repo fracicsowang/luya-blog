@@ -6,8 +6,8 @@
 import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  site: "https://luyaxyz.com",
-  base: "/blog",
+  site: "https://blog.luyaxyz.com",
+  base: "/",
   trailingSlash: "always",
   build: { format: "directory", assets: "_astro" },
   markdown: {

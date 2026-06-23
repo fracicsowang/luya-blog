@@ -9,7 +9,7 @@ author: Luya Editorial
 read_time: "6 min"
 hero_image_prompt: "A close-up photorealistic scene of vibrant radish microgreens with purple-pink stems and bright green leaves growing densely in a sunlit kitchen, soft natural morning light, shallow depth of field, no text, no watermark"
 image_alt: "A dense tray of radish microgreens with pink stems and green leaves"
-image: "/blog/img/hero-radish-microgreens.webp"
+image: "/img/hero-radish-microgreens.webp"
 date: 2026-01-01
 ---
 If you want one green that rewards near-zero patience, start with radish microgreens. They germinate in a day or two, are ready to harvest in under a week, and deliver a peppery crunch that wakes up almost any dish. They are also among the most nutrient-dense microgreens you can grow at home, which makes them a rare combination: fast, forgiving, and genuinely good for you. For a first-time grower, that short, satisfying cycle is the difference between a hobby that sticks and a sad tray you throw out.
@@ -29,21 +29,21 @@ Here is how they stack up against other popular beginner-friendly crops.
 | Broccoli | 2-3 days | 7-10 days | Mild, fresh | Rich in sulforaphane precursor |
 | Sunflower | 2-3 days | 8-12 days | Nutty, crunchy | Hearty, satisfying texture |
 
-That 5-to-7-day turnaround is the headline. You can plant on a Sunday and be topping your tacos by the next weekend. For anyone who has watched a houseplant slowly give up, that speed is a confidence builder, and the fast feedback loop teaches you what healthy growth looks like before a slower crop ever would. If you want to compare the full beginner lineup, our roundup of the [easiest microgreens to grow](/blog/easiest-microgreens-to-grow/) walks through each one in more detail, and [pea shoots](/blog/pea-shoots/) make a natural second crop once radish has built your confidence.
+That 5-to-7-day turnaround is the headline. You can plant on a Sunday and be topping your tacos by the next weekend. For anyone who has watched a houseplant slowly give up, that speed is a confidence builder, and the fast feedback loop teaches you what healthy growth looks like before a slower crop ever would. If you want to compare the full beginner lineup, our roundup of the [easiest microgreens to grow](/easiest-microgreens-to-grow/) walks through each one in more detail, and [pea shoots](/pea-shoots/) make a natural second crop once radish has built your confidence.
 
-![Radish Microgreens — photo 1](/blog/img/radish-microgreens-img1.webp)
+![Radish Microgreens — photo 1](/img/radish-microgreens-img1.webp)
 
 ## How Nutrient-Dense Are Radish Microgreens, Really?
 
 This is where radish goes from "fun" to "worth eating every day." Microgreens in general are roughly 2 to 3.5 times more nutrient-dense than their mature counterparts, according to peer-reviewed reviews in journals like MDPI Plants and to USDA data. Radish microgreens often land at the top of that range, which is part of why they punch so far above their tiny size.
 
-![Chart: microgreens are 2-3.5x more nutrient-dense than mature greens](/blog/img/charts/nutrient-density.svg)
+![Chart: microgreens are 2-3.5x more nutrient-dense than mature greens](/img/charts/nutrient-density.svg)
 
 Think about what that means in practice. A small handful of radish microgreens can carry the nutritional payload of a much larger serving of mature radish, and you get it in a fresher, more tender form that is easy to eat raw. They are rich in vitamins C, K, and E, along with antioxidants and polyphenols that support your body's everyday cellular defenses. Because you harvest minutes before eating, none of that has degraded in a truck or on a shelf.
 
-For a deeper look at what is actually inside these tiny greens, see our guide to [microgreens nutrition](/blog/microgreens-nutrition/). And if you are curious whether the hype holds up across the board, [are microgreens good for you](/blog/are-microgreens-good-for-you/) covers the evidence in plain language.
+For a deeper look at what is actually inside these tiny greens, see our guide to [microgreens nutrition](/microgreens-nutrition/). And if you are curious whether the hype holds up across the board, [are microgreens good for you](/are-microgreens-good-for-you/) covers the evidence in plain language.
 
-Radish is not the only standout, either. Broccoli microgreens are famous for their sulforaphane precursor, containing roughly 10 to 100 times more of it than mature broccoli, per Johns Hopkins research, with some samples measuring around 633 mg of total sulforaphane per 100g fresh. That compound forms when you chew or chop the greens raw and activates the body's Nrf2 antioxidant pathway, which is why [broccoli microgreens](/blog/broccoli-microgreens/) get so much attention. Pea shoots, meanwhile, are a notable plant-based protein source at up to about 35% protein by weight. But for sheer speed-plus-density, radish is hard to beat.
+Radish is not the only standout, either. Broccoli microgreens are famous for their sulforaphane precursor, containing roughly 10 to 100 times more of it than mature broccoli, per Johns Hopkins research, with some samples measuring around 633 mg of total sulforaphane per 100g fresh. That compound forms when you chew or chop the greens raw and activates the body's Nrf2 antioxidant pathway, which is why [broccoli microgreens](/broccoli-microgreens/) get so much attention. Pea shoots, meanwhile, are a notable plant-based protein source at up to about 35% protein by weight. But for sheer speed-plus-density, radish is hard to beat.
 
 ## How to Grow Radish Microgreens at Home
 
@@ -66,9 +66,9 @@ Mold is the number one frustration in DIY microgreen growing, and it usually com
 | Dried-out tray | A missed watering on a warm day | Water consistently; check daily |
 | Uneven growth | Patchy or thin seeding | Sow a denser, more even layer |
 
-If you have fought mold before, [why microgreens keep molding](/blog/why-microgreens-keep-molding/) breaks down the exact causes and fixes in more depth. The honest truth is that manual growing has a real failure rate, and it is almost always a consistency problem rather than a skill problem.
+If you have fought mold before, [why microgreens keep molding](/why-microgreens-keep-molding/) breaks down the exact causes and fixes in more depth. The honest truth is that manual growing has a real failure rate, and it is almost always a consistency problem rather than a skill problem.
 
-![Radish Microgreens — photo 2](/blog/img/radish-microgreens-img2.webp)
+![Radish Microgreens — photo 2](/img/radish-microgreens-img2.webp)
 
 ## How to Eat Radish Microgreens
 
@@ -79,7 +79,7 @@ Their sharp, peppery bite makes radish microgreens one of the most versatile gre
 - **Tossed into salads** where their pepperiness plays off sweeter ingredients like apple or beet.
 - **Blended into a green smoothie** when you want nutrition without the strong taste up front.
 
-For more inspiration, our [microgreens salad ideas](/blog/microgreens-salad-ideas/) and [how to eat microgreens](/blog/how-to-eat-microgreens/) guides are full of simple, repeatable ways to work them into everyday meals. The one rule worth remembering: eat them raw and fresh. Heat dulls both the peppery flavor and the delicate vitamins, so add them at the end of cooking, never during.
+For more inspiration, our [microgreens salad ideas](/microgreens-salad-ideas/) and [how to eat microgreens](/how-to-eat-microgreens/) guides are full of simple, repeatable ways to work them into everyday meals. The one rule worth remembering: eat them raw and fresh. Heat dulls both the peppery flavor and the delicate vitamins, so add them at the end of cooking, never during.
 
 ## The Catch With Store-Bought (and Manual) Microgreens
 
@@ -87,10 +87,10 @@ Radish microgreens are wonderful in theory. In practice, getting them fresh and 
 
 Buying them is expensive and inconsistent. A 2-ounce clamshell often runs $4 to $6, which works out to roughly $30 to $50 per pound, premium-steak territory for a green you could grow on a windowsill. And because store-bought microgreens travel through a long farm-to-truck-to-warehouse-to-store supply chain, they are frequently days old by the time you get them. They wilt fast, have a short shelf life, and a lot of them end up in the bin before you finish the box.
 
-Growing them yourself solves the freshness and cost problem but reintroduces the consistency problem: mold, the mess of loose soil, and the daily maintenance that a busy week or a vacation can quietly undo. If you have weighed both sides, [grow vs. buy microgreens](/blog/grow-vs-buy-microgreens/) lays out the full tradeoff. The frustrating part is that each option fixes one pain while creating another.
+Growing them yourself solves the freshness and cost problem but reintroduces the consistency problem: mold, the mess of loose soil, and the daily maintenance that a busy week or a vacation can quietly undo. If you have weighed both sides, [grow vs. buy microgreens](/grow-vs-buy-microgreens/) lays out the full tradeoff. The frustrating part is that each option fixes one pain while creating another.
 
 ## Fresh Radish Microgreens, Without the Chores
 
 This is the gap Luya was built to close. Luya is a countertop "food computer" that grows fresh microgreens automatically: you drop in a pre-seeded tray, and a sealed, climate-controlled chamber handles the temperature, watering, and airflow that usually trip people up. It keeps mold out, skips the soil mess, and removes the daily-watering burden entirely. You harvest only what you need, and the rest keeps growing alive on your counter. Think of it like a Nespresso, but for greens.
 
-For a fast, peppery, nutrient-dense crop like radish, that hands-off reliability means you finally get the upside, fresh greens harvested seconds before eating, at a lower cost per serving, without the failure rate. If you want to see how the closed-loop system works, from pre-seeded trays to automatic time-lapse video of each grow, visit [/how-it-works](/how-it-works), or keep planning your first crops with our guide to the [easiest microgreens to grow](/blog/easiest-microgreens-to-grow/).
+For a fast, peppery, nutrient-dense crop like radish, that hands-off reliability means you finally get the upside, fresh greens harvested seconds before eating, at a lower cost per serving, without the failure rate. If you want to see how the closed-loop system works, from pre-seeded trays to automatic time-lapse video of each grow, visit [/how-it-works](https://luyaxyz.com/how-it-works), or keep planning your first crops with our guide to the [easiest microgreens to grow](/easiest-microgreens-to-grow/).

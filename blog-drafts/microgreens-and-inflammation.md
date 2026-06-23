@@ -11,7 +11,7 @@ medical_disclaimer: true
 read_time: "6 min"
 hero_image_prompt: "A photorealistic close-up of fresh broccoli and radish microgreens in a soft sunlit kitchen, dewy green leaves, shallow depth of field, calm and clean editorial food photography, no text, no watermark"
 image_alt: "Fresh broccoli microgreens linked to microgreens inflammation research on cruciferous greens"
-image: "/blog/img/hero-microgreens-and-inflammation.webp"
+image: "/img/hero-microgreens-and-inflammation.webp"
 date: 2026-01-01
 ---
 *This article is for general education only and is not medical advice. Talk with your doctor before changing your diet, especially if you manage a chronic condition or take medication.*
@@ -26,9 +26,9 @@ Microgreens are young vegetable seedlings harvested just after the first true le
 
 Despite their size, peer-reviewed reviews (including work published in MDPI *Plants*) and USDA data suggest microgreens can be roughly 2 to 3.5 times more nutrient-dense than their fully grown counterparts, gram for gram, with radish microgreens often topping the list. That density matters for an anti-inflammatory eating pattern, because cruciferous microgreens are also rich in vitamins C, K, and E plus a broad range of antioxidants and polyphenols — the same families of compounds researchers consistently associate with the body's defense and repair systems.
 
-For the full breakdown of which crops carry which vitamins and minerals, our overview on [microgreens nutrition](/blog/microgreens-nutrition/) goes crop by crop, and [are microgreens good for you](/blog/are-microgreens-good-for-you/) weighs the overall evidence in plain language.
+For the full breakdown of which crops carry which vitamins and minerals, our overview on [microgreens nutrition](/microgreens-nutrition/) goes crop by crop, and [are microgreens good for you](/are-microgreens-good-for-you/) weighs the overall evidence in plain language.
 
-![Microgreens Inflammation — photo 1](/blog/img/microgreens-and-inflammation-img1.webp)
+![Microgreens Inflammation — photo 1](/img/microgreens-and-inflammation-img1.webp)
 
 ## The sulforaphane story behind microgreens inflammation research
 
@@ -45,7 +45,7 @@ Once formed, sulforaphane activates the Nrf2 pathway, the body's built-in antiox
 | Sulforaphane | An isothiocyanate | Activates the Nrf2 antioxidant and detox pathway |
 | Nrf2 pathway | A cellular signaling system | Switches on the body's own defense genes |
 
-For a focused explainer on this molecule, see [what is sulforaphane](/blog/what-is-sulforaphane/), and for the practical angle, [maximize sulforaphane](/blog/maximize-sulforaphane/) covers how to get the most from each bite.
+For a focused explainer on this molecule, see [what is sulforaphane](/what-is-sulforaphane/), and for the practical angle, [maximize sulforaphane](/maximize-sulforaphane/) covers how to get the most from each bite.
 
 ## How to actually get the sulforaphane onto your plate
 
@@ -63,9 +63,9 @@ This is also why freshness genuinely matters, and not just for flavor. The close
 
 Broccoli gets the headlines, but other cruciferous and legume microgreens are worth knowing.
 
-Red cabbage microgreens are striking. A USDA-associated **animal (mouse) study** found that red cabbage microgreens were linked to LDL ("bad") cholesterol reduced by about 34 percent, along with reduced weight gain and lower inflammatory markers. I have to flag this clearly: that is early, animal-model research, not human proof. Mice are not people, and one promising result is a starting point, not a conclusion. It is encouraging, not settled. You can read the fuller context in our piece on [microgreens and cholesterol](/blog/microgreens-and-cholesterol/).
+Red cabbage microgreens are striking. A USDA-associated **animal (mouse) study** found that red cabbage microgreens were linked to LDL ("bad") cholesterol reduced by about 34 percent, along with reduced weight gain and lower inflammatory markers. I have to flag this clearly: that is early, animal-model research, not human proof. Mice are not people, and one promising result is a starting point, not a conclusion. It is encouraging, not settled. You can read the fuller context in our piece on [microgreens and cholesterol](/microgreens-and-cholesterol/).
 
-Pea shoots take a different lane. They are a notably strong plant-based protein source, with protein content reaching up to roughly 35 percent by weight, which makes them a favorite for plant-forward eating. Protein supports tissue repair, so they earn a place alongside the cruciferous crops. Our guide to [high-protein microgreens](/blog/high-protein-microgreens/) digs in there.
+Pea shoots take a different lane. They are a notably strong plant-based protein source, with protein content reaching up to roughly 35 percent by weight, which makes them a favorite for plant-forward eating. Protein supports tissue repair, so they earn a place alongside the cruciferous crops. Our guide to [high-protein microgreens](/high-protein-microgreens/) digs in there.
 
 Radish microgreens often rank highest of all for nutrient density and bring a peppery bite that makes them easy to eat raw and often — which, as we have covered, is exactly the point.
 
@@ -76,17 +76,17 @@ Radish microgreens often rank highest of all for nutrient density and bring a pe
 | Pea shoots | Up to ~35% protein by weight | Strong plant-based protein |
 | Radish | Often highest nutrient density | Everyday nutrient boost |
 
-![Microgreens Inflammation — photo 2](/blog/img/microgreens-and-inflammation-img2.webp)
+![Microgreens Inflammation — photo 2](/img/microgreens-and-inflammation-img2.webp)
 
 ## A realistic, honest takeaway
 
 If you are managing a chronic condition, here is how I would frame microgreens: a genuinely nutrient-dense, low-effort addition to an overall healthy, anti-inflammatory eating pattern, backed by real and growing science — but not a medicine. The strongest claims still come from lab and animal studies, and the human picture is being actively written. Pair anything you read here with your own physician's guidance, and treat microgreens as one helpful habit among many, not a single fix.
 
-The catch with actually getting the benefit is simple but stubborn: it depends on **fresh, raw greens, eaten close to harvest.** Store-bought clamshells often spend days moving from farm to truck to warehouse to shelf, then wilt within a day or two of getting home. Growing your own by hand removes the supply-chain problem but adds new ones — mold, soil mess, and the daily watering a roughly 10-day cycle demands. Miss a few days for travel or a busy week, and the tray is often lost. If you are curious why home trays fail so often, [why microgreens keep molding](/blog/why-microgreens-keep-molding/) is an honest read.
+The catch with actually getting the benefit is simple but stubborn: it depends on **fresh, raw greens, eaten close to harvest.** Store-bought clamshells often spend days moving from farm to truck to warehouse to shelf, then wilt within a day or two of getting home. Growing your own by hand removes the supply-chain problem but adds new ones — mold, soil mess, and the daily watering a roughly 10-day cycle demands. Miss a few days for travel or a busy week, and the tray is often lost. If you are curious why home trays fail so often, [why microgreens keep molding](/why-microgreens-keep-molding/) is an honest read.
 
 This is the gap Luya was built to close. The Luya countertop grower is a sealed, climate-controlled appliance that handles temperature, watering, and airflow automatically, so you drop in a pre-seeded tray and harvest only what you need, seconds before you eat it — raw, fresh, and at peak enzyme activity. The rest of the tray keeps growing, alive, until you are ready. Think of it like a Nespresso, but for greens.
 
-To see how the automated, mold-free system works, visit [/how-it-works](/how-it-works), and for simple, raw-first ways to eat these greens at their best, browse our [microgreens salad ideas](/blog/microgreens-salad-ideas/).
+To see how the automated, mold-free system works, visit [/how-it-works](https://luyaxyz.com/how-it-works), and for simple, raw-first ways to eat these greens at their best, browse our [microgreens salad ideas](/microgreens-salad-ideas/).
 
 ### Selected sources
 

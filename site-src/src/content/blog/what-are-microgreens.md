@@ -9,7 +9,7 @@ author: Luya Editorial
 read_time: "6 min"
 hero_image_prompt: "A photorealistic close-up of dense, vibrant microgreens growing in a shallow tray on a sunlit kitchen counter, soft morning light, fresh green shoots with tiny leaves, shallow depth of field, no text, no watermark"
 image_alt: "Trays of fresh microgreens on a kitchen counter showing what are microgreens up close"
-image: "/blog/img/hero-what-are-microgreens.webp"
+image: "/img/hero-what-are-microgreens.webp"
 date: 2026-06-24
 ---
 If you have ever walked past a $5 clamshell of tiny green shoots at the grocery store and wondered what the fuss was about, this guide is for you. So, what are microgreens? In plain terms, they are young, edible vegetable and herb seedlings harvested just after their first true leaves appear, usually 7 to 14 days after planting. They sit between a sprout and a baby green, and despite their small size, they carry a surprising amount of nutrition, color, and flavor for their weight.
@@ -33,7 +33,7 @@ The key difference from a sprout is light: microgreens are grown in light and ha
 
 Common varieties include radish, broccoli, pea, sunflower, kale, and red cabbage, and each brings a distinct flavor, from the sharp peppery bite of radish microgreens to the mild, fresh sweetness of pea shoots.
 
-![What Are Microgreens — photo 1](/blog/img/what-are-microgreens-img1.webp)
+![What Are Microgreens — photo 1](/img/what-are-microgreens-img1.webp)
 
 ## Why Are Microgreens So Nutritious?
 
@@ -41,7 +41,7 @@ This is where microgreens earn their reputation. Research summarized in peer-rev
 
 Across varieties, microgreens are typically rich in vitamins C, K, and E, plus carotenoids and polyphenols, the plant antioxidants linked to cellular defense.
 
-![Chart: microgreens are 2-3.5x more nutrient-dense than mature greens](/blog/img/charts/nutrient-density.svg)
+![Chart: microgreens are 2-3.5x more nutrient-dense than mature greens](/img/charts/nutrient-density.svg)
 
 A few standouts deserve a closer look:
 
@@ -49,7 +49,7 @@ A few standouts deserve a closer look:
 - **Pea shoots** are a genuinely strong plant-based protein source, with protein content reaching up to about 35% by weight, which makes them a favorite among anyone eating a vegan diet.
 - **Red cabbage microgreens** were the focus of an animal (mouse) study cited by the USDA in which LDL cholesterol dropped about 34%, alongside reduced weight gain and lower inflammatory markers. This is early, animal-stage research rather than proof in humans, but it is exactly the kind of result that keeps scientists studying these little greens.
 
-For the full nutritional picture across varieties, our [microgreens nutrition](/blog/microgreens-nutrition/) guide breaks it down crop by crop.
+For the full nutritional picture across varieties, our [microgreens nutrition](/microgreens-nutrition/) guide breaks it down crop by crop.
 
 ## How Do You Eat Microgreens?
 
@@ -75,7 +75,7 @@ Here is the appeal: microgreens grow fast, need very little space, and do not re
 
 The basic method is straightforward: spread seeds densely across a moist growing medium, keep them covered and dark for a few days so they germinate evenly, then move the tray into bright light and water gently each day until harvest. Snip at the base, rinse, and eat. Our easiest microgreens to grow guide walks through each step in detail.
 
-![What Are Microgreens — photo 2](/blog/img/what-are-microgreens-img2.webp)
+![What Are Microgreens — photo 2](/img/what-are-microgreens-img2.webp)
 
 That said, growing by hand comes with real, predictable challenges. The three big ones are worth knowing before you start:
 
@@ -97,4 +97,4 @@ So, what are microgreens? They are young, nutrient-dense seedlings that pack con
 
 ---
 
-Curious how effortless fresh microgreens can be? See [how it works](/how-it-works) to grow restaurant-quality greens on your counter with zero mess and no daily chores. Ready to plant your first tray? Start with our beginner-friendly guide to [how to grow microgreens at home](/blog/how-to-grow-microgreens-at-home/).
+Curious how effortless fresh microgreens can be? See [how it works](https://luyaxyz.com/how-it-works) to grow restaurant-quality greens on your counter with zero mess and no daily chores. Ready to plant your first tray? Start with our beginner-friendly guide to [how to grow microgreens at home](/how-to-grow-microgreens-at-home/).

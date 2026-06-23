@@ -9,7 +9,7 @@ author: Luya Editorial
 read_time: "6 min"
 hero_image_prompt: A bright kitchen windowsill with several small trays of vibrant green and purple microgreens at different growth stages, soft morning light, shallow depth of field, photorealistic, no text, no watermark
 image_alt: Trays of the easiest microgreens to grow at home arranged on a sunlit kitchen counter
-image: "/blog/img/hero-easiest-microgreens-to-grow.webp"
+image: "/img/hero-easiest-microgreens-to-grow.webp"
 date: 2026-01-01
 ---
 If you want fresh greens fast, the easiest microgreens to grow at home are also some of the most rewarding. The beginner-friendly varieties below sprout within a day or two and are ready to harvest in about a week — no garden, no green thumb, and very little that can go wrong. They also pack a real nutritional punch: research summarized in peer-reviewed reviews (MDPI Plants) and USDA data suggests microgreens can be roughly 2 to 3.5 times more nutrient-dense than their full-grown counterparts, gram for gram.
@@ -24,9 +24,9 @@ Before the list, it helps to know what "easy" actually means. The easiest microg
 - **Short cycles.** A 5–10 day window means less daily fuss and fewer chances for a busy week to derail you before harvest.
 - **Forgiving seeds.** Larger or hardier seeds tolerate beginner mistakes like uneven watering, slightly heavy seeding, or a warm room.
 
-The most common reasons a first tray fails aren't exotic. They come down to three M's: **mold** (too much moisture, poor airflow, overcrowded seeds, and warmth working together), **mess** (loose potting soil scattered across the counter), and **maintenance** (microgreens need daily attention across roughly a 10-day cycle, and one skipped stretch can end a tray). Picking the right crop reduces all three risks at once. If you want a deeper troubleshooting walk-through, see our guide on [why microgreens keep molding](/blog/why-microgreens-keep-molding/).
+The most common reasons a first tray fails aren't exotic. They come down to three M's: **mold** (too much moisture, poor airflow, overcrowded seeds, and warmth working together), **mess** (loose potting soil scattered across the counter), and **maintenance** (microgreens need daily attention across roughly a 10-day cycle, and one skipped stretch can end a tray). Picking the right crop reduces all three risks at once. If you want a deeper troubleshooting walk-through, see our guide on [why microgreens keep molding](/why-microgreens-keep-molding/).
 
-![Easiest Microgreens To Grow — photo 1](/blog/img/easiest-microgreens-to-grow-img1.webp)
+![Easiest Microgreens To Grow — photo 1](/img/easiest-microgreens-to-grow-img1.webp)
 
 ## The 7 easiest microgreens to grow
 
@@ -34,15 +34,15 @@ Here are seven dependable starters, roughly ordered from fastest to most flavorf
 
 ### 1. Radish
 
-Radish is the gold standard for beginners. Seeds germinate in just 1–2 days and are ready to harvest in about 5–7 days — among the quickest of any crop. The flavor is a bright, peppery bite that wakes up tacos, sandwiches, and eggs. Radish microgreens are also frequently reported as the most nutrient-dense of the common varieties, so you get speed and substance in one tray. If your first attempt is a radish tray, you're stacking the odds heavily in your favor. Read more in our profile of [radish microgreens](/blog/radish-microgreens/).
+Radish is the gold standard for beginners. Seeds germinate in just 1–2 days and are ready to harvest in about 5–7 days — among the quickest of any crop. The flavor is a bright, peppery bite that wakes up tacos, sandwiches, and eggs. Radish microgreens are also frequently reported as the most nutrient-dense of the common varieties, so you get speed and substance in one tray. If your first attempt is a radish tray, you're stacking the odds heavily in your favor. Read more in our profile of [radish microgreens](/radish-microgreens/).
 
 ### 2. Pea shoots
 
-Pea shoots are big, sturdy, and forgiving, with a sweet, fresh-pea taste that even skeptical kids tend to like. The large seeds are nearly impossible to over-handle, and a quick overnight soak speeds germination. They're also a standout for plant-based protein — pea shoots can run up to about 35% protein by weight, one of the strongest showings of any green. Learn more in our deep dive on [pea shoots](/blog/pea-shoots/).
+Pea shoots are big, sturdy, and forgiving, with a sweet, fresh-pea taste that even skeptical kids tend to like. The large seeds are nearly impossible to over-handle, and a quick overnight soak speeds germination. They're also a standout for plant-based protein — pea shoots can run up to about 35% protein by weight, one of the strongest showings of any green. Learn more in our deep dive on [pea shoots](/pea-shoots/).
 
 ### 3. Broccoli
 
-Broccoli microgreens are mild, slightly sweet, and easy to grow, but their real claim to fame is nutritional. They contain a precursor to sulforaphane at levels reported to be roughly 10 to 100 times higher than mature broccoli (Johns Hopkins research), with broccoli microgreens measured around 633 mg of total sulforaphane per 100 g fresh. Sulforaphane is the compound behind much of broccoli's research buzz — learn why in [what is sulforaphane](/blog/what-is-sulforaphane/).
+Broccoli microgreens are mild, slightly sweet, and easy to grow, but their real claim to fame is nutritional. They contain a precursor to sulforaphane at levels reported to be roughly 10 to 100 times higher than mature broccoli (Johns Hopkins research), with broccoli microgreens measured around 633 mg of total sulforaphane per 100 g fresh. Sulforaphane is the compound behind much of broccoli's research buzz — learn why in [what is sulforaphane](/what-is-sulforaphane/).
 
 ### 4. Sunflower
 
@@ -72,7 +72,7 @@ Beyond red cabbage, the broader brassica family (green cabbage, mustard, kohlrab
 | Kale | 2–3 days | 8–10 days | Mild | Tender, vitamin-rich |
 | Cabbage/brassicas | 2–3 days | 8–10 days | Mild-spicy | Reliable, flexible |
 
-![Chart: days from seed to harvest for popular microgreens](/blog/img/charts/harvest-timeline.svg)
+![Chart: days from seed to harvest for popular microgreens](/img/charts/harvest-timeline.svg)
 
 ## How to grow them without the usual headaches
 
@@ -80,9 +80,9 @@ The mechanics are simple. Spread seeds evenly in a single layer (resist the urge
 
 The hard part isn't the technique — it's consistency. Manual trays have a real failure rate, and it's almost always a maintenance problem rather than a skill problem: a travel weekend, a forgotten morning watering, or stagnant air in a warm kitchen invites mold and ends an otherwise healthy tray. Keeping the payoff in mind helps, because a successful tray delivers far more nutrition than the same greens bought mature:
 
-For a full step-by-step, see our complete guide to [how to grow microgreens at home](/blog/how-to-grow-microgreens-at-home/). Once you've harvested, our roundup of ways to [eat microgreens](/blog/how-to-eat-microgreens/) will help you actually use the harvest before it wilts — because microgreens are best eaten raw and fresh, when their nutrients and flavor peak.
+For a full step-by-step, see our complete guide to [how to grow microgreens at home](/how-to-grow-microgreens-at-home/). Once you've harvested, our roundup of ways to [eat microgreens](/how-to-eat-microgreens/) will help you actually use the harvest before it wilts — because microgreens are best eaten raw and fresh, when their nutrients and flavor peak.
 
-![Easiest Microgreens To Grow — photo 2](/blog/img/easiest-microgreens-to-grow-img2.webp)
+![Easiest Microgreens To Grow — photo 2](/img/easiest-microgreens-to-grow-img2.webp)
 
 ## A simpler path for busy beginners
 
@@ -90,4 +90,4 @@ If the daily upkeep is what worries you, you're not alone — maintenance is the
 
 Whether you start with a tray and a spray bottle or let an appliance do the chores, radish and pea shoots are the perfect first step. Pick one, give it a week, and taste the difference fresh makes — most people are surprised how much better a just-cut microgreen is than anything from a clamshell at the store.
 
-Ready to skip the mold and the mess? See exactly [how it works](/how-it-works), or keep reading with our guide to [growing microgreens without soil](/blog/grow-microgreens-without-soil/).
+Ready to skip the mold and the mess? See exactly [how it works](https://luyaxyz.com/how-it-works), or keep reading with our guide to [growing microgreens without soil](/grow-microgreens-without-soil/).

@@ -9,7 +9,7 @@ author: Luya Editorial
 read_time: "6 min"
 hero_image_prompt: "A bright sunlit kitchen counter with a wooden board holding scattered fresh radish and pea microgreens, a finished avocado toast topped with greens, soft morning light, shallow depth of field, photorealistic, no text, no watermark"
 image_alt: "How to eat microgreens shown on a board with avocado toast and fresh greens"
-image: "/blog/img/hero-how-to-eat-microgreens.webp"
+image: "/img/hero-how-to-eat-microgreens.webp"
 date: 2026-01-01
 ---
 If you've ever bought a tray of tiny greens, used them once, and then watched the rest wilt into slime at the back of the fridge, this guide is for you. The best part of learning how to eat microgreens is that there's almost nothing to learn. You don't need recipes, knife skills, or a single extra cooking step. These little leaves were practically made to be tossed on top of food you're already making.
@@ -32,9 +32,9 @@ Before the ideas, here's the quick "why." Because microgreens pack more vitamins
 
 The standout is broccoli. Research from Johns Hopkins found that broccoli sprouts and microgreens can contain 10 to 100 times more sulforaphane precursor than mature broccoli, with broccoli microgreens reported at around 633 mg of total sulforaphane per 100g fresh. That is a remarkable concentration for something you can grow on a windowsill, and it's the reason broccoli microgreens get so much attention in nutrition research.
 
-If you want the deeper science behind those numbers, see our breakdown of [microgreens nutrition](/blog/microgreens-nutrition/) and our plain-language explainer on [what sulforaphane is](/blog/what-is-sulforaphane/). For now, the practical takeaway is simple: a handful a day is an easy, low-effort upgrade.
+If you want the deeper science behind those numbers, see our breakdown of [microgreens nutrition](/microgreens-nutrition/) and our plain-language explainer on [what sulforaphane is](/what-is-sulforaphane/). For now, the practical takeaway is simple: a handful a day is an easy, low-effort upgrade.
 
-![How To Eat Microgreens — photo 1](/blog/img/how-to-eat-microgreens-img1.webp)
+![How To Eat Microgreens — photo 1](/img/how-to-eat-microgreens-img1.webp)
 
 ## The 10 Easiest Ways to Eat Microgreens
 
@@ -48,11 +48,11 @@ You don't have to commit to all ten. Pick two or three that fit your routine, an
 
 **4. Tuck them into sandwiches and wraps.** Swap or supplement the lettuce. Pea shoots and sunflower hold up especially well and add real texture instead of just bulk.
 
-**5. Build a microgreen-forward salad.** Use them as the base or mix them with regular greens so the cost stretches further. For combinations that actually taste good, see our [microgreens salad ideas](/blog/microgreens-salad-ideas/).
+**5. Build a microgreen-forward salad.** Use them as the base or mix them with regular greens so the cost stretches further. For combinations that actually taste good, see our [microgreens salad ideas](/microgreens-salad-ideas/).
 
 **6. Garnish grain bowls and rice.** A handful over a quinoa, farro, or rice bowl makes a thrown-together weeknight dinner feel finished and deliberate.
 
-**7. Blend a small amount into smoothies.** Mild varieties like sunflower or broccoli disappear into fruit without taking over. Our [microgreens smoothie recipes](/blog/microgreens-smoothie-recipes/) have ratios dialed in so you get the nutrition without the grassy aftertaste.
+**7. Blend a small amount into smoothies.** Mild varieties like sunflower or broccoli disappear into fruit without taking over. Our [microgreens smoothie recipes](/microgreens-smoothie-recipes/) have ratios dialed in so you get the nutrition without the grassy aftertaste.
 
 **8. Scatter over pizza or flatbread.** Add them after baking so they stay bright and fresh against the hot cheese. Arugula-style microgreens are a classic finish here.
 
@@ -69,7 +69,7 @@ The catch is that the enzyme is fragile. Two simple habits protect it:
 - **Eat them raw and fresh.** Heat and overcooking degrade myrosinase, so the most sulforaphane comes from raw, well-chewed greens. Chewing thoroughly genuinely matters here.
 - **Add them at the end.** When a dish is hot, stir microgreens in off the heat or sprinkle them on top right before eating, never partway through cooking.
 
-That's why "garnish, don't cook" is the one rule worth remembering. It's also why nearly every idea above adds the greens at the finish line rather than the stove. For the deeper how-to on protecting these compounds, read our guide to [maximizing sulforaphane](/blog/maximize-sulforaphane/).
+That's why "garnish, don't cook" is the one rule worth remembering. It's also why nearly every idea above adds the greens at the finish line rather than the stove. For the deeper how-to on protecting these compounds, read our guide to [maximizing sulforaphane](/maximize-sulforaphane/).
 
 | Habit | Effect on nutrition |
 |---|---|
@@ -85,8 +85,8 @@ Here's the honest hurdle: the hardest part of eating microgreens every day usual
 
 Growing your own solves the freshness problem in theory, but manual trays bring their own headaches. Mold is the big one, fed by excess moisture, poor airflow, overcrowding, and warmth. Then there's the soil mess, and the daily watering and attention that a roughly 10-day grow cycle demands. One busy week or a short trip, and a whole tray can be lost. Manual growing has a real failure rate, and it's almost always a consistency problem rather than a skill problem.
 
-![How To Eat Microgreens — photo 2](/blog/img/how-to-eat-microgreens-img2.webp)
+![How To Eat Microgreens — photo 2](/img/how-to-eat-microgreens-img2.webp)
 
 So the daily habit really comes down to access. If you can reliably snip fresh greens the moment you want them, every idea on this list becomes effortless. If you can't, even the best intentions slowly fade as the clamshells wilt and the trays mold.
 
-That gap between "I want fresh microgreens daily" and "I actually have them" is exactly the problem [Luya](/how-it-works) was built to close. It's a countertop appliance, a bit like a Nespresso but for greens, with a sealed, ventilated, climate-controlled chamber that keeps mold out, pre-seeded trays you simply drop in, and automatic care across the full 7-to-10-day cycle. You harvest only what you need, snipped seconds before it lands on your toast, and the rest keeps growing alive. See exactly [how it works](/how-it-works), or keep reading with [are microgreens good for you](/blog/are-microgreens-good-for-you/) to learn what a daily handful really does for your body.
+That gap between "I want fresh microgreens daily" and "I actually have them" is exactly the problem [Luya](https://luyaxyz.com/how-it-works) was built to close. It's a countertop appliance, a bit like a Nespresso but for greens, with a sealed, ventilated, climate-controlled chamber that keeps mold out, pre-seeded trays you simply drop in, and automatic care across the full 7-to-10-day cycle. You harvest only what you need, snipped seconds before it lands on your toast, and the rest keeps growing alive. See exactly [how it works](https://luyaxyz.com/how-it-works), or keep reading with [are microgreens good for you](/are-microgreens-good-for-you/) to learn what a daily handful really does for your body.

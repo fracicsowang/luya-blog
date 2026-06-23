@@ -9,7 +9,7 @@ author: Luya Editorial
 read_time: "6 min"
 hero_image_prompt: "A photorealistic close-up of dense, vibrant microgreens growing in a shallow tray on a sunlit kitchen counter, soft morning light, fresh green shoots with tiny leaves, shallow depth of field, no text, no watermark"
 image_alt: "Trays of fresh microgreens on a kitchen counter showing what are microgreens up close"
-image: "/blog/img/hero-what-are-microgreens.webp"
+image: "/img/hero-what-are-microgreens.webp"
 date: 2026-01-01
 ---
 If you have ever walked past a $5 clamshell of tiny green shoots at the grocery store and wondered what the fuss was about, this guide is for you. So, what are microgreens? In plain terms, they are young, edible vegetable and herb seedlings harvested just after their first true leaves appear, usually 7 to 14 days after planting. They sit between a sprout and a baby green, and despite their small size, they carry a surprising amount of nutrition, color, and flavor for their weight.
@@ -29,11 +29,11 @@ The most useful way to understand a microgreen is to place it next to its relati
 | Baby green | 3–4 weeks | Leaves | Soil, with light |
 | Mature vegetable | 6+ weeks | Full plant | Soil, with light |
 
-The key difference from a sprout is light: microgreens are grown in light and harvested above the medium, so you skip the soggy seed hull and root that sprouts are eaten with. That also matters for food safety, since the warm, wet, dark conditions sprouts need can encourage bacteria. If you want a deeper side-by-side, see our guide on [microgreens vs sprouts](/blog/microgreens-vs-sprouts/).
+The key difference from a sprout is light: microgreens are grown in light and harvested above the medium, so you skip the soggy seed hull and root that sprouts are eaten with. That also matters for food safety, since the warm, wet, dark conditions sprouts need can encourage bacteria. If you want a deeper side-by-side, see our guide on [microgreens vs sprouts](/microgreens-vs-sprouts/).
 
-Common varieties include radish, broccoli, pea, sunflower, kale, and red cabbage, and each brings a distinct flavor, from the sharp peppery bite of [radish microgreens](/blog/radish-microgreens/) to the mild, fresh sweetness of [pea shoots](/blog/pea-shoots/).
+Common varieties include radish, broccoli, pea, sunflower, kale, and red cabbage, and each brings a distinct flavor, from the sharp peppery bite of [radish microgreens](/radish-microgreens/) to the mild, fresh sweetness of [pea shoots](/pea-shoots/).
 
-![What Are Microgreens — photo 1](/blog/img/what-are-microgreens-img1.webp)
+![What Are Microgreens — photo 1](/img/what-are-microgreens-img1.webp)
 
 ## Why Are Microgreens So Nutritious?
 
@@ -41,15 +41,15 @@ This is where microgreens earn their reputation. Research summarized in peer-rev
 
 Across varieties, microgreens are typically rich in vitamins C, K, and E, plus carotenoids and polyphenols, the plant antioxidants linked to cellular defense.
 
-![Chart: microgreens are 2-3.5x more nutrient-dense than mature greens](/blog/img/charts/nutrient-density.svg)
+![Chart: microgreens are 2-3.5x more nutrient-dense than mature greens](/img/charts/nutrient-density.svg)
 
 A few standouts deserve a closer look:
 
-- **Broccoli microgreens** are famous for sulforaphane, an isothiocyanate that forms when the compound glucoraphanin meets the enzyme myrosinase as you chew or chop. Sulforaphane activates the body's Nrf2 pathway, which switches on antioxidant and detox defenses, and it is being studied for blood-sugar regulation and inflammation (research-stage, not a proven cure). Johns Hopkins research found broccoli microgreens and sprouts can contain roughly **10 to 100 times** more of the sulforaphane precursor than mature broccoli, with broccoli microgreens reported at about 633 mg of total sulforaphane per 100g fresh. To go deeper, read [what is sulforaphane](/blog/what-is-sulforaphane/).
-- **Pea shoots** are a genuinely strong plant-based protein source, with protein content reaching up to about 35% by weight, which makes them a favorite among anyone eating a [vegan diet](/blog/microgreens-vegan-diet/).
+- **Broccoli microgreens** are famous for sulforaphane, an isothiocyanate that forms when the compound glucoraphanin meets the enzyme myrosinase as you chew or chop. Sulforaphane activates the body's Nrf2 pathway, which switches on antioxidant and detox defenses, and it is being studied for blood-sugar regulation and inflammation (research-stage, not a proven cure). Johns Hopkins research found broccoli microgreens and sprouts can contain roughly **10 to 100 times** more of the sulforaphane precursor than mature broccoli, with broccoli microgreens reported at about 633 mg of total sulforaphane per 100g fresh. To go deeper, read [what is sulforaphane](/what-is-sulforaphane/).
+- **Pea shoots** are a genuinely strong plant-based protein source, with protein content reaching up to about 35% by weight, which makes them a favorite among anyone eating a [vegan diet](/microgreens-vegan-diet/).
 - **Red cabbage microgreens** were the focus of an animal (mouse) study cited by the USDA in which LDL cholesterol dropped about 34%, alongside reduced weight gain and lower inflammatory markers. This is early, animal-stage research rather than proof in humans, but it is exactly the kind of result that keeps scientists studying these little greens.
 
-For the full nutritional picture across varieties, our [microgreens nutrition](/blog/microgreens-nutrition/) guide breaks it down crop by crop.
+For the full nutritional picture across varieties, our [microgreens nutrition](/microgreens-nutrition/) guide breaks it down crop by crop.
 
 ## How Do You Eat Microgreens?
 
@@ -57,8 +57,8 @@ One of the best things about microgreens is that you eat them raw, which preserv
 
 - A finishing garnish on avocado toast, soups, fried eggs, or pizza
 - A fresh, crunchy layer in sandwiches and wraps
-- A handful tossed into [salads](/blog/microgreens-salad-ideas/)
-- A nutrient boost blended into [smoothies](/blog/microgreens-smoothie-recipes/)
+- A handful tossed into [salads](/microgreens-salad-ideas/)
+- A nutrient boost blended into [smoothies](/microgreens-smoothie-recipes/)
 
 Here is a tip rooted in the science: for crops like broccoli, sulforaphane only forms once the cells are broken, so chewing or chopping matters, and high heat degrades the myrosinase enzyme that makes the reaction possible. The practical rule is simple, eat them raw, fresh, and well-chewed to get the most out of them. Stir a handful into a warm dish at the very end rather than cooking them in.
 
@@ -73,13 +73,13 @@ Here is the appeal: microgreens grow fast, need very little space, and do not re
 | Broccoli | 2–3 days | 8–12 days | Nutrient powerhouse |
 | Sunflower | 2–3 days | 8–12 days | Crunchy, high yield |
 
-The basic method is straightforward: spread seeds densely across a moist growing medium, keep them covered and dark for a few days so they germinate evenly, then move the tray into bright light and water gently each day until harvest. Snip at the base, rinse, and eat. Our [easiest microgreens to grow](/blog/easiest-microgreens-to-grow/) guide walks through each step in detail.
+The basic method is straightforward: spread seeds densely across a moist growing medium, keep them covered and dark for a few days so they germinate evenly, then move the tray into bright light and water gently each day until harvest. Snip at the base, rinse, and eat. Our [easiest microgreens to grow](/easiest-microgreens-to-grow/) guide walks through each step in detail.
 
-![What Are Microgreens — photo 2](/blog/img/what-are-microgreens-img2.webp)
+![What Are Microgreens — photo 2](/img/what-are-microgreens-img2.webp)
 
 That said, growing by hand comes with real, predictable challenges. The three big ones are worth knowing before you start:
 
-- **Mold.** Excess moisture, poor airflow, overcrowding, and warmth combine to invite mold, and it is by far the [most common reason trays fail](/blog/why-microgreens-keep-molding/). New growers often mistake fuzzy mold for healthy root hairs until it is too late.
+- **Mold.** Excess moisture, poor airflow, overcrowding, and warmth combine to invite mold, and it is by far the [most common reason trays fail](/why-microgreens-keep-molding/). New growers often mistake fuzzy mold for healthy root hairs until it is too late.
 - **Mess.** Soil, spilled seed, and daily rinsing can quietly turn a kitchen counter into an ongoing project.
 - **Maintenance.** A roughly 10-day cycle needs attention nearly every day. One busy week or a short trip can wipe out a whole tray.
 
@@ -87,7 +87,7 @@ Manual growing has a genuine failure rate, and it is usually a consistency probl
 
 ## The Buy-vs-Grow Tradeoff
 
-If growing sounds like a chore, buying seems easier, but the store route has its own downsides. Packaged microgreens are **expensive**, often $4 to $6 per 2 oz clamshell, which works out to roughly $30 to $50 per pound, on par with premium cuts of meat. They are also frequently **not fresh**, having spent days moving through the farm-to-truck-to-warehouse-to-store supply chain. Because these greens are so delicate, they wilt quickly once cut, so shelf life is short and a lot of each package ends up in the trash. We cover this gap in detail in [store-bought microgreens: expensive and not fresh](/blog/store-bought-microgreens-expensive-not-fresh/).
+If growing sounds like a chore, buying seems easier, but the store route has its own downsides. Packaged microgreens are **expensive**, often $4 to $6 per 2 oz clamshell, which works out to roughly $30 to $50 per pound, on par with premium cuts of meat. They are also frequently **not fresh**, having spent days moving through the farm-to-truck-to-warehouse-to-store supply chain. Because these greens are so delicate, they wilt quickly once cut, so shelf life is short and a lot of each package ends up in the trash. We cover this gap in detail in [store-bought microgreens: expensive and not fresh](/store-bought-microgreens-expensive-not-fresh/).
 
 This is the exact gap Luya was built to close. The Luya countertop "food computer" automates the whole cycle inside a sealed, climate-controlled, ventilated chamber: you drop in a pre-seeded tray, and AI-driven temperature control and automatic watering keep mold and daily chores out of the equation. You harvest only what you need, seconds before eating, while the rest keeps growing alive. Think of it like a Nespresso, but for fresh greens.
 
@@ -97,4 +97,4 @@ So, what are microgreens? They are young, nutrient-dense seedlings that pack con
 
 ---
 
-Curious how effortless fresh microgreens can be? See [how it works](/how-it-works) to grow restaurant-quality greens on your counter with zero mess and no daily chores. Ready to plant your first tray? Start with our beginner-friendly guide to [how to grow microgreens at home](/blog/how-to-grow-microgreens-at-home/).
+Curious how effortless fresh microgreens can be? See [how it works](https://luyaxyz.com/how-it-works) to grow restaurant-quality greens on your counter with zero mess and no daily chores. Ready to plant your first tray? Start with our beginner-friendly guide to [how to grow microgreens at home](/how-to-grow-microgreens-at-home/).

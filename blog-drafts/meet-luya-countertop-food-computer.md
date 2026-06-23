@@ -10,14 +10,14 @@ read_time: "5 min"
 hero_image: "@/assets/luyax-x1-lab-hero.png"
 hero_image_note: "Use the real Luya X product render — do NOT AI-generate the machine."
 image_alt: "The Luya countertop microgreens grower on a kitchen counter"
-image: "/blog/img/hero-meet-luya-countertop-food-computer.webp"
+image: "/img/hero-meet-luya-countertop-food-computer.webp"
 date: 2026-01-01
 ---
-We like to describe Luya simply: **it's the first food computer for your kitchen.** Not a planter, not a gardening kit — a high-end appliance that reliably produces fresh, nutrient-dense microgreens with effectively zero effort. If you've ever wanted the freshness of just-harvested greens without the [mold, mess, and daily babysitting](/blog/why-microgreens-keep-molding/) of a DIY tray, this is what we built it for.
+We like to describe Luya simply: **it's the first food computer for your kitchen.** Not a planter, not a gardening kit — a high-end appliance that reliably produces fresh, nutrient-dense microgreens with effectively zero effort. If you've ever wanted the freshness of just-harvested greens without the [mold, mess, and daily babysitting](/why-microgreens-keep-molding/) of a DIY tray, this is what we built it for.
 
 ## The problem Luya solves
 
-Growing microgreens by hand has a real failure rate — mold, overwatering, and the simple fact that life gets in the way of daily care. Buying them is the opposite problem: [expensive clamshells](/blog/store-bought-microgreens-expensive-not-fresh/) that are often days past harvest and wilting by the time you eat them.
+Growing microgreens by hand has a real failure rate — mold, overwatering, and the simple fact that life gets in the way of daily care. Buying them is the opposite problem: [expensive clamshells](/store-bought-microgreens-expensive-not-fresh/) that are often days past harvest and wilting by the time you eat them.
 
 Luya removes both. It isn't really a "growing" problem we set out to fix — it's a **trust** problem: giving you a system that delivers a clean, fresh harvest every cycle, whether or not you had a perfect week.
 
@@ -33,7 +33,7 @@ Luya removes both. It isn't really a "growing" problem we set out to fix — it'
 | Mold risk | High without diligence | Sealed, ventilated chamber |
 | Effort | Daily chore | Drop in a tray, walk away |
 
-![Luya Microgreens Grower — photo 1](/blog/img/meet-luya-countertop-food-computer-img1.webp)
+![Luya Microgreens Grower — photo 1](/img/meet-luya-countertop-food-computer-img1.webp)
 
 ## How it works, briefly
 
@@ -52,7 +52,7 @@ The comparison we keep coming back to is the coffee machine. Nobody roasts and g
 
 And because you harvest only what you need, the rest keeps growing — alive — until you cut it. That's freshness no grocery clamshell can match, at a fraction of the per-serving cost.
 
-![Luya Microgreens Grower — photo 2](/blog/img/meet-luya-countertop-food-computer-img2.webp)
+![Luya Microgreens Grower — photo 2](/img/meet-luya-countertop-food-computer-img2.webp)
 
 ## Who it's for
 
@@ -62,4 +62,4 @@ Fresh food, grown where you eat it, with none of the failure modes of doing it b
 
 ---
 
-*Want to see it in action? [Explore how Luya works →](/how-it-works) or [learn about the health benefits of microgreens](/blog/what-is-sulforaphane/).*
+*Want to see it in action? [Explore how Luya works →](https://luyaxyz.com/how-it-works) or [learn about the health benefits of microgreens](/what-is-sulforaphane/).*

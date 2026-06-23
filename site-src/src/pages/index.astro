@@ -15,11 +15,11 @@ const site = "https://luyaxyz.com";
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>The Luya Blog — Microgreens, Nutrition & Home Growing</title>
     <meta name="description" content="Science-backed guides on microgreens nutrition, health, recipes, and growing fresh greens at home with Luya." />
-    <link rel="canonical" href={site + "/blog/"} />
-    <link rel="alternate" type="application/rss+xml" title="Luya Blog" href={site + "/blog/feed.xml"} />
+    <link rel="canonical" href={site + "/"} />
+    <link rel="alternate" type="application/rss+xml" title="Luya Blog" href={site + "/feed.xml"} />
     <meta property="og:title" content="The Luya Blog" />
     <meta property="og:description" content="Microgreens nutrition, health, recipes, and home growing — by Luya." />
-    <meta property="og:image" content={site + "/blog/img/og-default.png"} />
+    <meta property="og:image" content={site + "/img/og-default.png"} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Lora:wght@500;600;700&display=swap" rel="stylesheet" />
   </head>
@@ -32,7 +32,7 @@ const site = "https://luyaxyz.com";
       </header>
       <div class="grid">
         {posts.map((p) => (
-          <a class="card" href={base + "/" + p.slug + "/"}>
+          <a class="card" href={"/" + p.slug + "/"}>
             {p.data.image && <img src={p.data.image} alt={p.data.image_alt || p.data.title} loading="lazy" />}
             <div class="body">
               <span class="cat">{p.data.category}</span>

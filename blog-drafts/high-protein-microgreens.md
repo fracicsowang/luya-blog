@@ -11,7 +11,7 @@ read_time: "6 min"
 medical_disclaimer: true
 hero_image_prompt: A bright sunlit kitchen counter with a wooden bowl overflowing with vivid green pea shoots and a colorful plant-based grain bowl beside it, soft morning light, shallow depth of field, photorealistic, no text, no watermark
 image_alt: A bowl of high protein microgreens including pea shoots on a plant-based meal
-image: "/blog/img/hero-high-protein-microgreens.webp"
+image: "/img/hero-high-protein-microgreens.webp"
 date: 2026-01-01
 ---
 *This article is for general education and is not medical advice. Talk to your doctor or a registered dietitian about your individual nutrition needs.*
@@ -26,7 +26,7 @@ Let's look at which varieties actually earn the "high protein" label, how they c
 
 ## What Makes High Protein Microgreens Worth It
 
-Microgreens are young vegetables harvested just after the first true leaves appear, usually within 7 to 10 days of planting. At that stage the seedling is packing the nutrient stores it would otherwise spend slowly building out a full-size plant, so everything is compressed into a tiny footprint. (If you're new to the category, our primer on [what are microgreens](/blog/what-are-microgreens/) covers the basics.)
+Microgreens are young vegetables harvested just after the first true leaves appear, usually within 7 to 10 days of planting. At that stage the seedling is packing the nutrient stores it would otherwise spend slowly building out a full-size plant, so everything is compressed into a tiny footprint. (If you're new to the category, our primer on [what are microgreens](/what-are-microgreens/) covers the basics.)
 
 That concentration is the whole point. Peer-reviewed reviews, including work published in MDPI *Plants*, alongside USDA nutrient data, suggest microgreens are roughly 2 to 3.5 times more nutrient-dense than their mature counterparts, with radish microgreens often topping the list. You are eating a smaller volume but a denser one.
 
@@ -34,7 +34,7 @@ Protein is part of that story. The standout is the pea shoot, a genuinely strong
 
 Beyond protein, microgreens are rich in vitamins C, K, and E, plus a range of antioxidants and polyphenols. So when you add high protein microgreens to a meal, you aren't adding filler volume or empty crunch. You're adding density, color, and compounds your body can use.
 
-![High Protein Microgreens — photo 1](/blog/img/high-protein-microgreens-img1.webp)
+![High Protein Microgreens — photo 1](/img/high-protein-microgreens-img1.webp)
 
 ## The Best Microgreens to Add Protein to a Vegan Plate
 
@@ -47,15 +47,15 @@ Not every microgreen is a protein heavyweight, and that's fine. The smartest app
 | Radish | Moderate | Often most nutrient-dense overall (~2-3.5x mature) | Bold, peppery, crisp |
 | Sunflower | Moderate, hearty | Crunchy texture, healthy fats, filling | Nutty, mild |
 
-Pea shoots are the obvious anchor for anyone building protein. Compared with the popular alternative, they're also milder and faster-growing than sprouts, with more nutrient density per bite, a distinction we unpack in [microgreens vs sprouts](/blog/microgreens-vs-sprouts/).
+Pea shoots are the obvious anchor for anyone building protein. Compared with the popular alternative, they're also milder and faster-growing than sprouts, with more nutrient density per bite, a distinction we unpack in [microgreens vs sprouts](/microgreens-vs-sprouts/).
 
-But the supporting players matter too. Broccoli microgreens are a nutritional powerhouse for a different reason: they carry far more of the precursor to sulforaphane than mature broccoli does, by some measures 10 to 100 times more, with broccoli microgreens reported at around 633 mg of total sulforaphane per 100g fresh. Sulforaphane is an isothiocyanate that forms when you chew or chop the greens, and it's been studied for blood-sugar regulation and inflammation (research-stage, not a proven cure). For the full breakdown of why that compound draws so much attention, see [what is sulforaphane](/blog/what-is-sulforaphane/).
+But the supporting players matter too. Broccoli microgreens are a nutritional powerhouse for a different reason: they carry far more of the precursor to sulforaphane than mature broccoli does, by some measures 10 to 100 times more, with broccoli microgreens reported at around 633 mg of total sulforaphane per 100g fresh. Sulforaphane is an isothiocyanate that forms when you chew or chop the greens, and it's been studied for blood-sugar regulation and inflammation (research-stage, not a proven cure). For the full breakdown of why that compound draws so much attention, see [what is sulforaphane](/what-is-sulforaphane/).
 
 Sunflower microgreens bring a satisfying crunch and healthy fats, which makes a high-protein plant-based bowl feel genuinely filling rather than just leafy. Radish microgreens add a peppery kick and, gram for gram, tend to be the most nutrient-dense of the bunch, a useful counterweight to the milder pea shoot.
 
-![Chart: protein content of popular microgreens](/blog/img/charts/protein-microgreens.svg)
+![Chart: protein content of popular microgreens](/img/charts/protein-microgreens.svg)
 
-For a wider look at how these greens stack up nutritionally beyond protein, see our overview of [microgreens nutrition](/blog/microgreens-nutrition/).
+For a wider look at how these greens stack up nutritionally beyond protein, see our overview of [microgreens nutrition](/microgreens-nutrition/).
 
 ## How to Actually Eat Them for Maximum Benefit
 
@@ -64,13 +64,13 @@ The good news for protein-rich microgreens is that they're meant to stay raw, wh
 A few practical ways to work them in every day:
 
 - **Pile them on, don't sprinkle.** A token garnish won't move the needle. Treat pea shoots like a salad green and use a generous handful, not a pinch.
-- **Add to grain and protein bowls.** Layer a handful over rice, quinoa, lentils, or tofu *after* cooking, never during, so the heat doesn't undo the work. See [microgreens salad ideas](/blog/microgreens-salad-ideas/) for combinations beyond the basic bowl.
-- **Blend into smoothies.** Mild varieties vanish into fruit. Our [microgreens smoothie recipes](/blog/microgreens-smoothie-recipes/) have blends that hide the green entirely.
+- **Add to grain and protein bowls.** Layer a handful over rice, quinoa, lentils, or tofu *after* cooking, never during, so the heat doesn't undo the work. See [microgreens salad ideas](/microgreens-salad-ideas/) for combinations beyond the basic bowl.
+- **Blend into smoothies.** Mild varieties vanish into fruit. Our [microgreens smoothie recipes](/microgreens-smoothie-recipes/) have blends that hide the green entirely.
 - **Stir into salads.** They mix beautifully with full-size leaves, adding protein, color, and a fresh crunch full-grown greens lose.
 
 The rule of thumb is simple: add them at the very end, eat them fresh, and chew well. Everything about the nutrition rewards freshness, which brings us to the real obstacle.
 
-![High Protein Microgreens — photo 2](/blog/img/high-protein-microgreens-img2.webp)
+![High Protein Microgreens — photo 2](/img/high-protein-microgreens-img2.webp)
 
 ## The Catch: Fresh Is Everything (and Hard to Get)
 
@@ -82,15 +82,15 @@ Here's the honest part. The protein and nutrient density that make high protein 
 | Growing manually at home | Low ingredient cost | Fresh, but mold, mess, and daily watering create a real failure rate |
 | Sealed countertop grower | Lower cost per serving | Harvested seconds before eating, alive until you cut it |
 
-Growing your own fixes both the cost and the freshness problem, but manual growing comes with its own headaches: mold from poor airflow and overcrowding, the mess of loose soil, and the daily watering a 10-day cycle quietly demands. Miss a few days during a busy week or a trip, and the whole tray is lost. It's less a gardening skill than a consistency problem, and consistency is exactly what real life interrupts. We go deeper on the most common culprit in [why microgreens keep molding](/blog/why-microgreens-keep-molding/).
+Growing your own fixes both the cost and the freshness problem, but manual growing comes with its own headaches: mold from poor airflow and overcrowding, the mess of loose soil, and the daily watering a 10-day cycle quietly demands. Miss a few days during a busy week or a trip, and the whole tray is lost. It's less a gardening skill than a consistency problem, and consistency is exactly what real life interrupts. We go deeper on the most common culprit in [why microgreens keep molding](/why-microgreens-keep-molding/).
 
 This is the gap Luya was built to close. The Luya countertop "food computer" grows pre-seeded trays in a sealed, climate-controlled chamber, so you skip the mold, the mess, and the daily chores, then harvest a handful of pea shoots seconds before they hit your bowl. The rest keeps growing, alive, until you need it. Think of it like a Nespresso, but for fresh greens.
 
 ## Bring Fresh Protein Greens to Your Table
 
-The best high protein microgreens, led by pea shoots and rounded out with broccoli, radish, and sunflower, are one of the easiest upgrades you can make to a plant-based meal, but only when they're genuinely fresh. If you're tired of paying premium prices for greens that wilt by the weekend, see [how it works](/how-it-works) and grow them at home with zero guesswork, harvesting only what you need.
+The best high protein microgreens, led by pea shoots and rounded out with broccoli, radish, and sunflower, are one of the easiest upgrades you can make to a plant-based meal, but only when they're genuinely fresh. If you're tired of paying premium prices for greens that wilt by the weekend, see [how it works](https://luyaxyz.com/how-it-works) and grow them at home with zero guesswork, harvesting only what you need.
 
-Want to go deeper on the lifestyle? Read our guide to [microgreens for a vegan diet](/blog/microgreens-vegan-diet/) next.
+Want to go deeper on the lifestyle? Read our guide to [microgreens for a vegan diet](/microgreens-vegan-diet/) next.
 
 ### Selected sources
 

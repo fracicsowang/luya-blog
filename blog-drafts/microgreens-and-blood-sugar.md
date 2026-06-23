@@ -11,7 +11,7 @@ medical_disclaimer: true
 read_time: "6 min"
 hero_image_prompt: "A photorealistic close-up of a wooden cutting board with a small bowl of freshly harvested broccoli and radish microgreens beside a glucose-friendly breakfast of plain yogurt, berries, and seeds, soft morning kitchen light, shallow depth of field, no text, no watermark"
 image_alt: "Fresh broccoli microgreens on a plate, relevant to microgreens diabetes research"
-image: "/blog/img/hero-microgreens-and-blood-sugar.webp"
+image: "/img/hero-microgreens-and-blood-sugar.webp"
 date: 2026-01-01
 ---
 *This article is for general education only and is not medical advice. Talk with your doctor before changing your diet, medication, or diabetes management plan.*
@@ -35,19 +35,19 @@ For people managing blood sugar, two qualities stand out. First, microgreens are
 
 This is not a claim that microgreens treat diabetes. It is a reason researchers keep returning to them.
 
-![Microgreens Diabetes — photo 1](/blog/img/microgreens-and-blood-sugar-img1.webp)
+![Microgreens Diabetes — photo 1](/img/microgreens-and-blood-sugar-img1.webp)
 
 ## The sulforaphane connection
 
 Most of the diabetes interest traces back to one molecule: sulforaphane. It is an isothiocyanate that forms when a compound called glucoraphanin meets an enzyme called myrosinase, which happens when you chew or chop the plant. Once formed, sulforaphane activates the body's Nrf2 pathway, a kind of internal switch that turns on antioxidant and detoxification defenses.
 
-This is where broccoli stands out. Johns Hopkins research found that broccoli microgreens and sprouts can contain dramatically more glucoraphanin (the sulforaphane precursor) than mature broccoli, on the order of 10 to 100 times more. Broccoli microgreens have been reported to deliver around 633 mg of total sulforaphane per 100 grams fresh. To put that in perspective, you would have to eat a large amount of fully grown broccoli to approach what a small serving of the microgreens can provide. Sulforaphane itself has been studied specifically for blood-sugar regulation, inflammation, and cellular defense, which is why a molecule from a salad garnish keeps appearing in metabolic research. For a side-by-side look at broccoli microgreens versus capsules, see [broccoli microgreens vs sulforaphane supplements](/blog/broccoli-microgreens-vs-sulforaphane-supplements/).
+This is where broccoli stands out. Johns Hopkins research found that broccoli microgreens and sprouts can contain dramatically more glucoraphanin (the sulforaphane precursor) than mature broccoli, on the order of 10 to 100 times more. Broccoli microgreens have been reported to deliver around 633 mg of total sulforaphane per 100 grams fresh. To put that in perspective, you would have to eat a large amount of fully grown broccoli to approach what a small serving of the microgreens can provide. Sulforaphane itself has been studied specifically for blood-sugar regulation, inflammation, and cellular defense, which is why a molecule from a salad garnish keeps appearing in metabolic research. For a side-by-side look at broccoli microgreens versus capsules, see [broccoli microgreens vs sulforaphane supplements](/broccoli-microgreens-vs-sulforaphane-supplements/).
 
 Two important caveats, though.
 
 This is research-stage science, not a proven cure. Sulforaphane is being studied, not prescribed. It does not replace medication, and results in early or laboratory research do not automatically translate to your kitchen.
 
-And how you eat it matters a lot. Heat and overcooking degrade myrosinase, the enzyme that makes sulforaphane in the first place. So raw, fresh, and well-chewed is the way to get the most. If you want to go deeper on this, we cover it in [what is sulforaphane](/blog/what-is-sulforaphane/) and in our guide to [maximizing sulforaphane](/blog/maximize-sulforaphane/).
+And how you eat it matters a lot. Heat and overcooking degrade myrosinase, the enzyme that makes sulforaphane in the first place. So raw, fresh, and well-chewed is the way to get the most. If you want to go deeper on this, we cover it in [what is sulforaphane](/what-is-sulforaphane/) and in our guide to [maximizing sulforaphane](/maximize-sulforaphane/).
 
 ## What the animal and early research actually says
 
@@ -64,7 +64,7 @@ The honest summary looks like this:
 | Red cabbage microgreens lower LDL and inflammation | Animal (mouse) study | Early signal only |
 | Microgreens "treat" type 2 diabetes | No | Not a treatment |
 
-For diabetes specifically, the strongest practical case is not any single miracle compound. It is that microgreens fit neatly into the eating pattern doctors already recommend: more non-starchy vegetables, more fiber, more antioxidants, and fewer refined carbohydrates. If you want the broader picture of their nutrition, see [are microgreens good for you](/blog/are-microgreens-good-for-you/).
+For diabetes specifically, the strongest practical case is not any single miracle compound. It is that microgreens fit neatly into the eating pattern doctors already recommend: more non-starchy vegetables, more fiber, more antioxidants, and fewer refined carbohydrates. If you want the broader picture of their nutrition, see [are microgreens good for you](/are-microgreens-good-for-you/).
 
 ## How to actually add microgreens to a diabetes-friendly plate
 
@@ -86,11 +86,11 @@ Pairing matters too. Combining greens with protein and healthy fat, rather than 
 | Blended raw into a smoothie | Yes | Easy daily habit |
 | Cooked into the dish | No | Flavor only, not the active compounds |
 
-For recipe inspiration, our [microgreens salad ideas](/blog/microgreens-salad-ideas/) and [microgreens smoothie recipes](/blog/microgreens-smoothie-recipes/) are good starting points.
+For recipe inspiration, our [microgreens salad ideas](/microgreens-salad-ideas/) and [microgreens smoothie recipes](/microgreens-smoothie-recipes/) are good starting points.
 
 A practical reality check: freshness and consistency are everything. Microgreens are most valuable when they are eaten fresh and raw, but store-bought clamshells are expensive (often $4 to $6 per 2 oz, roughly $30 to $50 per pound) and frequently arrive days into a long supply chain, wilting fast. Growing your own avoids that, though manual trays come with their own challenges, mainly mold, mess, and the daily watering that a busy week can easily derail.
 
-![Microgreens Diabetes — photo 2](/blog/img/microgreens-and-blood-sugar-img2.webp)
+![Microgreens Diabetes — photo 2](/img/microgreens-and-blood-sugar-img2.webp)
 
 This is the gap Luya is built to close. Luya is a countertop appliance, a bit like a Nespresso but for greens, with pre-seeded trays you drop in and a sealed, climate-controlled chamber that keeps mold out while it grows. You harvest only what you need, seconds before eating, so the sulforaphane-friendly "fresh and raw" ideal is the easy default rather than a chore. If consistency has been your sticking point, that automation is the point.
 
@@ -102,7 +102,7 @@ Treat microgreens as a small, sustainable upgrade to an already-balanced plate, 
 
 ---
 
-Want fresh microgreens without the mold, mess, or daily watering? See [how it works](/how-it-works) to learn how Luya grows them on your counter, harvest-fresh and raw. To dig deeper into the science, read our guide on [microgreens and inflammation](/blog/microgreens-and-inflammation/).
+Want fresh microgreens without the mold, mess, or daily watering? See [how it works](https://luyaxyz.com/how-it-works) to learn how Luya grows them on your counter, harvest-fresh and raw. To dig deeper into the science, read our guide on [microgreens and inflammation](/microgreens-and-inflammation/).
 
 ### Selected sources
 

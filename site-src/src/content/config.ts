@@ -1,5 +1,5 @@
 // Blog post schema. Drafts live in /blog-drafts/ and are copied into
-// src/content/blog/ at publish time by blog-tools/ci_publish.py.
+// src/content/ at publish time by blog-tools/ci_publish.py.
 // Schema is tolerant: `date` is set by the publisher; extra fields are allowed.
 import { defineCollection, z } from "astro:content";
 

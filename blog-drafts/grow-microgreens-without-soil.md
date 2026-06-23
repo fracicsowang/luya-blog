@@ -9,7 +9,7 @@ author: Luya Editorial
 read_time: "6 min"
 hero_image_prompt: A bright modern kitchen counter with a shallow tray of vivid green microgreens growing on a clean white fiber mat, soft morning light through a window, water droplets on fresh leaves, photorealistic, shallow depth of field, no text, no watermark
 image_alt: Tray used to grow microgreens without soil on a clean fiber mat on a kitchen counter
-image: "/blog/img/hero-grow-microgreens-without-soil.webp"
+image: "/img/hero-grow-microgreens-without-soil.webp"
 date: 2026-01-01
 ---
 If you want fresh greens on your counter but dread the dirt, here is the good news: you can grow microgreens without soil and still pull the same dense, flavorful harvest you would get from potting mix. Soil-free growing swaps the mix for a clean fiber mat or pad, which means no heavy bags to lug home, no muddy sink, and a fraction of the cleanup. It is one of the gentlest ways for a true beginner to start, and it pairs perfectly with the fastest crops like radish, broccoli, and pea shoots.
@@ -31,7 +31,7 @@ The benefits are practical:
 
 The trade-off is that you have to stay on top of watering, because mats dry out faster than soil. We will cover that below.
 
-![Grow Microgreens Without Soil — photo 1](/blog/img/grow-microgreens-without-soil-img1.webp)
+![Grow Microgreens Without Soil — photo 1](/img/grow-microgreens-without-soil-img1.webp)
 
 ## What You Need to Grow Microgreens Without Soil
 
@@ -66,7 +66,7 @@ Follow these steps and you will have greens in roughly a week to ten days.
 
 **7. Harvest.** When the first true leaves appear, snip just above the mat with clean scissors. Most beginner crops are ready in 5 to 10 days.
 
-For a fuller walkthrough that also covers soil-based methods, see our guide on [how to grow microgreens at home](/blog/how-to-grow-microgreens-at-home/).
+For a fuller walkthrough that also covers soil-based methods, see our guide on [how to grow microgreens at home](/how-to-grow-microgreens-at-home/).
 
 ## Best Beginner Crops for Soil-Free Growing
 
@@ -81,13 +81,13 @@ Some seeds are far more forgiving than others. These four are the classic starti
 
 There is a real nutrition payoff, too, and it is well documented. Peer-reviewed reviews (published in journals such as MDPI's *Plants*) and USDA data consistently find microgreens are roughly 2 to 3.5 times more nutrient-dense than the same plants harvested mature, with radish microgreens often topping the list. They are particularly rich in vitamins C, K, and E along with antioxidant polyphenols.
 
-![Chart: days from seed to harvest for popular microgreens](/blog/img/charts/harvest-timeline.svg)
+![Chart: days from seed to harvest for popular microgreens](/img/charts/harvest-timeline.svg)
 
 Broccoli microgreens are the standout. Johns Hopkins research found that young broccoli can carry roughly 10 to 100 times more of the sulforaphane precursor (glucoraphanin) than the mature head, with broccoli microgreens measured at about 633 mg of total sulforaphane per 100 g fresh weight. Sulforaphane is an isothiocyanate that forms when you chew or chop the leaves, and it is studied for activating the body's Nrf2 defense pathway. Pea shoots, meanwhile, can run up to about 35% protein by weight, making them a genuinely strong plant-based protein source.
 
-If you want to go deeper on the science, our overview of [microgreens nutrition](/blog/microgreens-nutrition/) breaks down the vitamins and compounds worth knowing, and [what is sulforaphane](/blog/what-is-sulforaphane/) explains the broccoli story in full.
+If you want to go deeper on the science, our overview of [microgreens nutrition](/microgreens-nutrition/) breaks down the vitamins and compounds worth knowing, and [what is sulforaphane](/what-is-sulforaphane/) explains the broccoli story in full.
 
-![Grow Microgreens Without Soil — photo 2](/blog/img/grow-microgreens-without-soil-img2.webp)
+![Grow Microgreens Without Soil — photo 2](/img/grow-microgreens-without-soil-img2.webp)
 
 ## The One Problem to Watch: Mold
 
@@ -100,7 +100,7 @@ A few habits prevent almost all of it:
 - Give the tray some air circulation once it is uncovered.
 - Switch to bottom-watering so leaves stay dry.
 
-One thing worth knowing: fuzzy white mold is different from the fine, fuzzy root hairs that radish and broccoli naturally grow near the base. Root hairs disappear when misted; mold does not. If you keep losing trays, our deep dive on [why microgreens keep molding](/blog/why-microgreens-keep-molding/) covers how to tell the difference and fix the root cause.
+One thing worth knowing: fuzzy white mold is different from the fine, fuzzy root hairs that radish and broccoli naturally grow near the base. Root hairs disappear when misted; mold does not. If you keep losing trays, our deep dive on [why microgreens keep molding](/why-microgreens-keep-molding/) covers how to tell the difference and fix the root cause.
 
 The honest truth about manual growing, soil or soil-free, is that it is a consistency problem more than a skill problem. The plants are easy. The daily attention over a roughly 10-day cycle is the hard part, and mats are even less forgiving than soil because they dry out faster. Miss a couple of waterings during a busy week, a work trip, or a weekend away, and a tray can either dry to a crisp or tip into mold before you are back. Most people who quit growing do not quit because they failed at the technique; they quit because life got in the way of the schedule.
 
@@ -110,4 +110,4 @@ Growing on a mat removes the mess, but it does not remove the maintenance. If yo
 
 Luya uses pre-seeded trays you simply drop into a sealed, climate-controlled chamber. It manages temperature, watering, and airflow automatically, keeps mold out, and lets you harvest only what you need while the rest keeps growing alive. Think of it like a Nespresso, but for greens, fresh seconds before they hit your plate, with none of the daily upkeep.
 
-Curious how the automated approach compares to a DIY mat setup? See [how it works](/how-it-works), then read our take on [grow vs. buy microgreens](/blog/grow-vs-buy-microgreens/) to decide which path fits your kitchen and your week.
+Curious how the automated approach compares to a DIY mat setup? See [how it works](https://luyaxyz.com/how-it-works), then read our take on [grow vs. buy microgreens](/grow-vs-buy-microgreens/) to decide which path fits your kitchen and your week.

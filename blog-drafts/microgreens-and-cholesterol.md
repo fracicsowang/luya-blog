@@ -11,7 +11,7 @@ medical_disclaimer: true
 read_time: "6 min"
 hero_image_prompt: "A photorealistic overhead scene of vibrant purple-stemmed red cabbage microgreens growing densely in a small tray on a bright kitchen counter, soft morning light, shallow depth of field, no text, no watermark"
 image_alt: "Red cabbage microgreens linked to cholesterol research growing in a tray"
-image: "/blog/img/hero-microgreens-and-cholesterol.webp"
+image: "/img/hero-microgreens-and-cholesterol.webp"
 date: 2026-01-01
 ---
 *This article is for general education only and is not medical advice. Talk with your doctor before changing your diet, supplements, or cholesterol treatment.*
@@ -26,13 +26,13 @@ The study that started the conversation, work associated with the USDA, looked a
 
 The results were striking. In that animal study, LDL cholesterol, the "bad" cholesterol most strongly associated with cardiovascular risk, dropped by roughly **34%** in the microgreen-fed group compared with controls. The same mice also showed reduced weight gain and lower levels of certain inflammatory markers. Three different signals, all pointing the same direction, is exactly the kind of result that makes researchers want to look closer.
 
-![Chart: LDL cholesterol reduction in the red cabbage microgreen mouse study](/blog/img/charts/ldl-red-cabbage.svg)
+![Chart: LDL cholesterol reduction in the red cabbage microgreen mouse study](/img/charts/ldl-red-cabbage.svg)
 
 Here's the honest framing, and it matters: this was an **animal study**, not a human clinical trial. Mice are not people. Their metabolism, their dose relative to body weight, and a tightly controlled lab diet are all very different from your dinner. Early research like this tells scientists where to point the next experiment. It does not prove that eating microgreens will move your own cholesterol numbers.
 
 That distinction is the whole game in nutrition science. A promising signal in mice is a reason to keep studying, not a reason to skip your statin. Plenty of compounds look brilliant in rodents and then do little in humans.
 
-![Microgreens Cholesterol — photo 1](/blog/img/microgreens-and-cholesterol-img1.webp)
+![Microgreens Cholesterol — photo 1](/img/microgreens-and-cholesterol-img1.webp)
 
 ## Why microgreens might matter for heart health at all
 
@@ -51,7 +51,7 @@ Second, the specific nutrients involved. Microgreens are rich in vitamins C, K, 
 
 Third, there's the broader picture. A pattern of eating that is high in vegetables and fiber and lower in saturated fat is one of the most consistently supported approaches to heart health, per guidance from groups like the Cleveland Clinic. Microgreens don't work in isolation, and no single ingredient does. They're a small, concentrated addition to that bigger pattern, not a substitute for it.
 
-If you want to go deeper on the nutrient side, our guide to [microgreens nutrition](/blog/microgreens-nutrition/) breaks down what these greens actually contain, and [are microgreens good for you](/blog/are-microgreens-good-for-you/) takes a wider look at the evidence.
+If you want to go deeper on the nutrient side, our guide to [microgreens nutrition](/microgreens-nutrition/) breaks down what these greens actually contain, and [are microgreens good for you](/are-microgreens-good-for-you/) takes a wider look at the evidence.
 
 ## Sulforaphane, broccoli, and the inflammation angle
 
@@ -63,7 +63,7 @@ The mechanism is worth knowing because it changes how you should eat them. Sulfo
 
 Researchers have studied sulforaphane in the context of blood-sugar regulation, inflammation, and cellular defense. To be clear, this is research-stage work, not a proven treatment for any condition. But because chronic inflammation is woven into the development of heart disease, the overlap is a big part of why microgreens keep surfacing in cardiovascular research at all.
 
-One practical consequence of that mechanism: heat degrades myrosinase, the very enzyme you need. Overcook broccoli microgreens and you can switch off most of their sulforaphane potential. To get the most, eat them **raw, fresh, and chewed well**. If you'd like the full mechanism, see [what is sulforaphane](/blog/what-is-sulforaphane/) and [maximize sulforaphane](/blog/maximize-sulforaphane/); if blood sugar is also on your radar, [microgreens and blood sugar](/blog/microgreens-and-blood-sugar/) covers that branch, and [microgreens and inflammation](/blog/microgreens-and-inflammation/) digs into the anti-inflammatory side.
+One practical consequence of that mechanism: heat degrades myrosinase, the very enzyme you need. Overcook broccoli microgreens and you can switch off most of their sulforaphane potential. To get the most, eat them **raw, fresh, and chewed well**. If you'd like the full mechanism, see [what is sulforaphane](/what-is-sulforaphane/) and [maximize sulforaphane](/maximize-sulforaphane/); if blood sugar is also on your radar, [microgreens and blood sugar](/microgreens-and-blood-sugar/) covers that branch, and [microgreens and inflammation](/microgreens-and-inflammation/) digs into the anti-inflammatory side.
 
 ## How to use microgreens sensibly (without overselling them)
 
@@ -78,9 +78,9 @@ A few grounded ways to fit them in:
 
 The catch most people hit isn't motivation, it's freshness and consistency. Store-bought microgreens are expensive, often **$4 to $6 per 2 oz clamshell** (roughly $30 to $50 per pound), and they've usually spent days moving through a farm-to-truck-to-warehouse-to-store supply chain before they reach you. They wilt fast, which means lost nutrients, a short window to actually eat them, and a lot of mushy waste in the bottom of the fridge.
 
-![Microgreens Cholesterol — photo 2](/blog/img/microgreens-and-cholesterol-img2.webp)
+![Microgreens Cholesterol — photo 2](/img/microgreens-and-cholesterol-img2.webp)
 
-Growing your own solves the freshness problem in theory, but DIY trays come with their own headaches: mold from too much moisture and poor airflow, soil mess across the counter, and the daily watering grind over roughly 10-day cycles. Miss a week for travel or a busy stretch at work and the tray is gone. If you've fought those battles, [why microgreens keep molding](/blog/why-microgreens-keep-molding/) will feel familiar, and [grow vs buy microgreens](/blog/grow-vs-buy-microgreens/) weighs both routes side by side.
+Growing your own solves the freshness problem in theory, but DIY trays come with their own headaches: mold from too much moisture and poor airflow, soil mess across the counter, and the daily watering grind over roughly 10-day cycles. Miss a week for travel or a busy stretch at work and the tray is gone. If you've fought those battles, [why microgreens keep molding](/why-microgreens-keep-molding/) will feel familiar, and [grow vs buy microgreens](/grow-vs-buy-microgreens/) weighs both routes side by side.
 
 ## The bottom line on microgreens and cholesterol
 
@@ -90,7 +90,7 @@ The smart takeaway isn't to chase a single miracle green. It's to lean into a nu
 
 ---
 
-If consistently fresh microgreens are the hard part, that's exactly the problem Luya was built to solve. Our countertop grower keeps a sealed, climate-controlled chamber so trays grow themselves, mold-free, while you harvest only what you need, seconds before eating. See [how it works](/how-it-works), or read more on the science in [are microgreens good for you](/blog/are-microgreens-good-for-you/).
+If consistently fresh microgreens are the hard part, that's exactly the problem Luya was built to solve. Our countertop grower keeps a sealed, climate-controlled chamber so trays grow themselves, mold-free, while you harvest only what you need, seconds before eating. See [how it works](https://luyaxyz.com/how-it-works), or read more on the science in [are microgreens good for you](/are-microgreens-good-for-you/).
 
 ### Selected sources
 

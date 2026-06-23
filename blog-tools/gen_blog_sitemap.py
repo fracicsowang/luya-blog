@@ -15,8 +15,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "site-src" / "src" / "content" / "blog"
-OUT = ROOT / "site" / "blog" / "sitemap.xml"
-SITE = "https://cbtcbook.com"
+OUT = ROOT / "site" / "sitemap.xml"
+SITE = "https://blog.luyaxyz.com"
 
 
 def parse_date(md: str) -> str:
@@ -38,13 +38,13 @@ def main() -> None:
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
         # The /blog/ landing
-        f"  <url>\n    <loc>{SITE}/blog/</loc>\n"
+        f"  <url>\n    <loc>{SITE}/</loc>\n"
         f"    <lastmod>{today}</lastmod>\n"
         f"    <changefreq>weekly</changefreq>\n"
         f"    <priority>0.9</priority>\n  </url>",
     ]
     for slug, date in entries:
-        url = f"{SITE}/blog/{slug}/"
+        url = f"{SITE}/{slug}/"
         parts.append(
             f"  <url>\n    <loc>{sax.escape(url)}</loc>\n"
             f"    <lastmod>{date}</lastmod>\n"

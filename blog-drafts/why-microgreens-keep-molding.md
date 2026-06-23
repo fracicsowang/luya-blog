@@ -9,7 +9,7 @@ author: "Luya Editorial"
 read_time: "6 min"
 hero_image_prompt: "A home kitchen counter with a tray of fresh clean microgreens, soft natural window light, fresh and healthy aesthetic, shallow depth of field — decorative lifestyle photo, no text"
 image_alt: "Tray of fresh microgreens growing on a clean kitchen counter"
-image: "/blog/img/hero-why-microgreens-keep-molding.webp"
+image: "/img/hero-why-microgreens-keep-molding.webp"
 date: 2026-01-01
 ---
 If you've tried growing microgreens at home, you've probably met the enemy: a fuzzy white web creeping across your tray, usually a day or two before harvest. It's discouraging, a little gross, and the single most common reason people give up on growing their own greens.
@@ -30,7 +30,7 @@ Before you toss a tray, make sure you're not looking at **root hairs**. New grow
 
 When in doubt: a quick spritz of water makes root hairs lie down; mold doesn't care.
 
-![Microgreens Mold — photo 1](/blog/img/why-microgreens-keep-molding-img1.webp)
+![Microgreens Mold — photo 1](/img/why-microgreens-keep-molding-img1.webp)
 
 ## What actually causes microgreens to mold
 
@@ -56,7 +56,7 @@ Here's the standard advice — and it works, *if* you do all of it, consistently
 
 Do all six, every grow, and your mold rate drops sharply.
 
-![Microgreens Mold — photo 2](/blog/img/why-microgreens-keep-molding-img2.webp)
+![Microgreens Mold — photo 2](/img/why-microgreens-keep-molding-img2.webp)
 
 ## Why it still happens — and why that's the real problem
 
@@ -68,7 +68,7 @@ That's not a knowledge problem. It's a *consistency* problem. And consistency ov
 
 ## The hands-off alternative
 
-This is the problem we built [Luya](/) to solve. Instead of you managing moisture, airflow, light, and temperature by hand, Luya holds them steady automatically inside a sealed, climate-controlled chamber:
+This is the problem we built [Luya](https://luyaxyz.com/) to solve. Instead of you managing moisture, airflow, light, and temperature by hand, Luya holds them steady automatically inside a sealed, climate-controlled chamber:
 
 - **Automatic air circulation** keeps the canopy out of stagnant, humid air — the root cause of mold.
 - **Built-in bottom watering** keeps leaves dry without you metering every pour.
@@ -81,4 +81,4 @@ Growing microgreens by hand is genuinely rewarding when it works. But if mold ke
 
 ---
 
-*Want fresh microgreens without the mold, mess, or daily fuss? [See how Luya works →](/how-it-works). New to growing? Start with [How to Grow Microgreens at Home](/blog/how-to-grow-microgreens-at-home/).*
+*Want fresh microgreens without the mold, mess, or daily fuss? [See how Luya works →](https://luyaxyz.com/how-it-works). New to growing? Start with [How to Grow Microgreens at Home](/how-to-grow-microgreens-at-home/).*

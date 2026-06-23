@@ -32,7 +32,7 @@ CONTENT = ROOT / "site-src" / "src" / "content" / "blog"
 QUEUE = ROOT / "publish-queue.yml"
 
 LINK_RE = re.compile(
-    r"\[([^\]]+)\]\(/blog/([a-z0-9-]+)/?(#[^)]*)?\)"
+    r"\[([^\]]+)\]\(/([a-z0-9-]+)/?(#[^)]*)?\)"
 )
 FRONTMATTER_LINKS_RE = re.compile(
     r'^(internal_links:\s*\[)([^\]]*)(\])', re.MULTILINE
@@ -40,7 +40,7 @@ FRONTMATTER_LINKS_RE = re.compile(
 FRONTMATTER_DATE_RE = re.compile(
     r'^date:\s*\S+\s*$', re.MULTILINE
 )
-SLUG_FROM_URL_RE = re.compile(r"^/blog/([a-z0-9-]+)/?")
+SLUG_FROM_URL_RE = re.compile(r"^/([a-z0-9-]+)/?")
 QUEUE_DATE_RE = re.compile(r'^"(\d{4}-\d{2}-\d{2})":\s*$')
 QUEUE_SLUG_RE = re.compile(r'^\s*-\s+([a-z0-9-]+)\s*$')
 

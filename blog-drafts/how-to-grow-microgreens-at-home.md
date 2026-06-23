@@ -9,12 +9,12 @@ author: "Luya Editorial"
 read_time: "6 min"
 hero_image_prompt: "Overhead flat-lay of microgreen seeds, a shallow tray, and a freshly sprouted tray of microgreens on a light wooden table, bright natural light, clean and inviting — decorative photo, no text"
 image_alt: "Overhead view of microgreens growing supplies and a sprouted tray"
-image: "/blog/img/hero-how-to-grow-microgreens-at-home.webp"
+image: "/img/hero-how-to-grow-microgreens-at-home.webp"
 date: 2026-01-01
 ---
 Microgreens are one of the most beginner-friendly things you can grow: no garden, no sun-soaked balcony, and only 1–2 weeks from seed to harvest. They're also worth the effort — research consistently finds microgreens far more nutrient-dense than the mature versions of the same plants.
 
-![Bar chart showing microgreens are about 2 to 3.5 times more nutrient-dense than mature greens, with radish microgreens highest](/blog/img/charts/nutrient-density.svg)
+![Bar chart showing microgreens are about 2 to 3.5 times more nutrient-dense than mature greens, with radish microgreens highest](/img/charts/nutrient-density.svg)
 
 Here's everything you need to grow your first tray — and the handful of mistakes that cause most early failures.
 
@@ -39,11 +39,11 @@ Start with fast, forgiving varieties before branching out:
 | Broccoli | 1–2 days | 7–10 days | Mild, nutrient-dense (sulforaphane) |
 | Sunflower | 2–3 days | 8–12 days | Crunchy, satisfying, high-yield |
 
-![How To Grow Microgreens At Home — photo 1](/blog/img/how-to-grow-microgreens-at-home-img1.webp)
+![How To Grow Microgreens At Home — photo 1](/img/how-to-grow-microgreens-at-home-img1.webp)
 
 ## The 7 steps
 
-1. **Sow the seeds.** Spread them evenly across the moist medium — enough to cover the surface, but not piled on top of each other. Overcrowding is the #1 beginner mistake (it traps moisture and invites [mold](/blog/why-microgreens-keep-molding/)).
+1. **Sow the seeds.** Spread them evenly across the moist medium — enough to cover the surface, but not piled on top of each other. Overcrowding is the #1 beginner mistake (it traps moisture and invites [mold](/why-microgreens-keep-molding/)).
 2. **Press and mist.** Gently press the seeds into contact with the medium and mist until evenly damp.
 3. **Blackout phase (days 1–3).** Cover the tray to keep it dark and humid for germination. Check daily and keep it lightly moist.
 4. **Uncover and give light (around day 3–4).** Once seedlings lift the cover or you see consistent sprouting, uncover and move to light. Don't leave the cover on too long — a classic mold trigger.
@@ -51,7 +51,7 @@ Start with fast, forgiving varieties before branching out:
 6. **Give it airflow.** A little air circulation (even a low fan nearby) keeps things healthy.
 7. **Harvest (day 7–14).** When the first true leaves appear and greens are 1.5–3 inches tall, snip just above the medium with clean scissors. Rinse gently, and eat fresh.
 
-![How To Grow Microgreens At Home — photo 2](/blog/img/how-to-grow-microgreens-at-home-img2.webp)
+![How To Grow Microgreens At Home — photo 2](/img/how-to-grow-microgreens-at-home-img2.webp)
 
 ## The mistakes that trip up beginners
 
@@ -65,10 +65,10 @@ Notice a theme? Most failures come down to **managing moisture, airflow, light, 
 
 ## The shortcut, if you'd rather not babysit a tray
 
-Growing by hand is rewarding, but it *is* a daily chore with a real failure rate. If you want the fresh-harvested result without the variables, an automated countertop grower like [Luya](/) handles the water, light, airflow, and temperature for you — starting from a pre-seeded tray at the right density, in a sealed chamber that keeps mold out. You get the day-14 payoff without the day-by-day management.
+Growing by hand is rewarding, but it *is* a daily chore with a real failure rate. If you want the fresh-harvested result without the variables, an automated countertop grower like [Luya](https://luyaxyz.com/) handles the water, light, airflow, and temperature for you — starting from a pre-seeded tray at the right density, in a sealed chamber that keeps mold out. You get the day-14 payoff without the day-by-day management.
 
 Either way you grow them, the reward is the same: a fresh, nutrient-dense harvest a few steps from your kitchen.
 
 ---
 
-*New to microgreens? Start with [What Are Microgreens?](/blog/what-are-microgreens/) — or [see the hands-off way to grow them →](/how-it-works).*
+*New to microgreens? Start with [What Are Microgreens?](/what-are-microgreens/) — or [see the hands-off way to grow them →](https://luyaxyz.com/how-it-works).*

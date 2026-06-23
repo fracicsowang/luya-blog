@@ -11,7 +11,7 @@ medical_disclaimer: true
 read_time: "6 min"
 hero_image_prompt: A photorealistic close-up of vibrant green broccoli microgreens being snipped with kitchen scissors over a white ceramic bowl on a sunlit countertop, fresh water droplets on the leaves, shallow depth of field, no text, no watermark
 image_alt: Freshly harvested broccoli microgreens prepared to maximize sulforaphane content
-image: "/blog/img/hero-maximize-sulforaphane.webp"
+image: "/img/hero-maximize-sulforaphane.webp"
 date: 2026-01-01
 ---
 *This article is for general education only and is not medical advice. Talk to a qualified clinician before making changes to your diet, especially if you have a health condition or take medication.*
@@ -30,7 +30,7 @@ Here is the part most people miss: sulforaphane is not sitting ready-made inside
 
 That single fact drives almost every tip here. If myrosinase is destroyed before it can do its job, you lose most of the payoff, no matter how much glucoraphanin the plant started with. Think of it like a two-part epoxy: glucoraphanin and myrosinase sit in separate compartments inside the leaf, harmless until they mix. Damaging the tissue while keeping the enzyme intact is what triggers the reaction, and heat and wilting both work against you.
 
-![Maximize Sulforaphane — photo 1](/blog/img/maximize-sulforaphane-img1.webp)
+![Maximize Sulforaphane — photo 1](/img/maximize-sulforaphane-img1.webp)
 
 ## Why Broccoli Microgreens Beat Mature Broccoli
 
@@ -46,9 +46,9 @@ It is worth being precise about the numbers. The cited 10-to-100x range describe
 | Broccoli microgreens (fresh) | ~10-100x more precursor than mature | Raw, chewed well |
 | Broccoli microgreens (~100g fresh) | ~633 mg total sulforaphane reported | Raw, chopped, eaten promptly |
 
-![Chart: broccoli microgreens have 10-100x more sulforaphane than mature broccoli](/blog/img/charts/sulforaphane-comparison.svg)
+![Chart: broccoli microgreens have 10-100x more sulforaphane than mature broccoli](/img/charts/sulforaphane-comparison.svg)
 
-For more on the compound itself, our explainer on [what sulforaphane is](/blog/what-is-sulforaphane/) breaks down the biochemistry in plain language. And if you have wondered whether a capsule would be simpler, [broccoli microgreens versus sulforaphane supplements](/blog/broccoli-microgreens-vs-sulforaphane-supplements/) covers why many supplements struggle to deliver active sulforaphane reliably, an enzyme problem fresh greens largely sidestep.
+For more on the compound itself, our explainer on [what sulforaphane is](/what-is-sulforaphane/) breaks down the biochemistry in plain language. And if you have wondered whether a capsule would be simpler, [broccoli microgreens versus sulforaphane supplements](/broccoli-microgreens-vs-sulforaphane-supplements/) covers why many supplements struggle to deliver active sulforaphane reliably, an enzyme problem fresh greens largely sidestep.
 
 ## Five Ways to Actually Maximize Sulforaphane
 
@@ -64,7 +64,7 @@ The compound is fragile and enzyme-dependent, so technique matters as much as qu
 
 **5. Add them at the end, not the start, of cooking.** If you must add them to a warm dish, fold them in off the heat so you preserve enzyme activity rather than cooking it away.
 
-These principles show up across the cruciferous family, part of why microgreens are such a useful tool for anyone tracking their [microgreens nutrition](/blog/microgreens-nutrition/) closely.
+These principles show up across the cruciferous family, part of why microgreens are such a useful tool for anyone tracking their [microgreens nutrition](/microgreens-nutrition/) closely.
 
 ## Freshness Is the Hidden Variable
 
@@ -74,7 +74,7 @@ Growing at home solves the freshness problem in theory, and broccoli is beginner
 
 The point is not to discourage growing. It is to be honest that consistency, not effort, determines whether you have fresh greens on hand the day you want them. The biochemistry above only pays off if something alive and crisp is in your kitchen to chop in the first place.
 
-![Maximize Sulforaphane — photo 2](/blog/img/maximize-sulforaphane-img2.webp)
+![Maximize Sulforaphane — photo 2](/img/maximize-sulforaphane-img2.webp)
 
 ## A Simple Daily Routine
 
@@ -88,7 +88,7 @@ Here is a practical pattern many people use to keep sulforaphane intake steady w
 | Combine | Add to a cool dish, smoothie, or salad | Avoids heat degradation |
 | Eat | Chew slowly and well | Maximizes enzyme contact |
 
-For ideas on working them in, see our roundup of [microgreens salad ideas](/blog/microgreens-salad-ideas/) and tips on [how to eat microgreens](/blog/how-to-eat-microgreens/) without it feeling like a chore.
+For ideas on working them in, see our roundup of [microgreens salad ideas](/microgreens-salad-ideas/) and tips on [how to eat microgreens](/how-to-eat-microgreens/) without it feeling like a chore.
 
 ## The Bottom Line
 
@@ -96,7 +96,7 @@ To maximize sulforaphane from broccoli microgreens: start with truly fresh green
 
 ---
 
-If reliable freshness is your sticking point, that is the problem Luya was built to solve. Luya is a countertop appliance, a bit like a Nespresso but for greens, that grows pre-seeded trays in a sealed, climate-controlled chamber so you can harvest a fresh handful seconds before eating, no mold, mess, or daily fuss. See [how it works](/how-it-works), and if you are curious how home-grown compares to the clamshell, read [grow vs buy microgreens](/blog/grow-vs-buy-microgreens/).
+If reliable freshness is your sticking point, that is the problem Luya was built to solve. Luya is a countertop appliance, a bit like a Nespresso but for greens, that grows pre-seeded trays in a sealed, climate-controlled chamber so you can harvest a fresh handful seconds before eating, no mold, mess, or daily fuss. See [how it works](https://luyaxyz.com/how-it-works), and if you are curious how home-grown compares to the clamshell, read [grow vs buy microgreens](/grow-vs-buy-microgreens/).
 
 ### Selected sources
 

@@ -28,7 +28,7 @@ const { category, posts } = Astro.props;
     <main style="max-width:880px;margin:0 auto;padding:32px 20px;">
       <h1 style="font-family:'Lora',serif;">{category}</h1>
       <ul style="line-height:2;">
-        {posts.map((p) => <li><a style="color:#2F9160;" href={base + "/" + p.slug + "/"}>{p.data.title}</a></li>)}
+        {posts.map((p) => <li><a style="color:#2F9160;" href={"/" + p.slug + "/"}>{p.data.title}</a></li>)}
       </ul>
     </main>
     <SiteFooter />

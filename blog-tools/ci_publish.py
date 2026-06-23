@@ -141,10 +141,10 @@ def main():
         print(f"FATAL: build produced no {DIST}", file=sys.stderr)
         sys.exit(1)
 
-    (SITE / "blog").mkdir(parents=True, exist_ok=True)
+    SITE.mkdir(parents=True, exist_ok=True)
     run(["rsync", "-a", "--delete",
          "--exclude=figures/", "--exclude=slides/",
-         f"{DIST}/", f"{SITE / 'blog'}/"], label="rsync dist -> site/blog")
+         f"{DIST}/", f"{SITE}/"], label="rsync dist -> site/blog")
 
     run_soft([py, str(TOOLS / "gen_blog_sitemap.py")], label="regen blog sitemap")
 

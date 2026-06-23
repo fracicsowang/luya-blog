@@ -11,7 +11,7 @@ medical_disclaimer: true
 read_time: "6 min"
 hero_image_prompt: "Macro photograph of vibrant green broccoli microgreens with water droplets, bright clean studio light, scientific yet appetizing — decorative photo, no text or labels"
 image_alt: "Macro photo of fresh broccoli microgreens"
-image: "/blog/img/hero-what-is-sulforaphane.webp"
+image: "/img/hero-what-is-sulforaphane.webp"
 date: 2026-01-01
 ---
 *Medically reviewed by Dr. Shaiek, Plant & Growing Scientist at Luya. This article is for educational purposes and is not medical advice; consult a healthcare professional about your individual needs.*
@@ -28,7 +28,7 @@ This single fact explains almost everything practical about sulforaphane: why *h
 
 This is the headline finding. According to research originating at Johns Hopkins University, **young broccoli plants can contain dramatically more sulforaphane precursor than mature broccoli heads** — studies have reported broccoli microgreens and sprouts holding on the order of **10 to 100 times** the concentration found in fully grown broccoli, gram for gram.
 
-![Bar chart comparing relative sulforaphane content: mature broccoli at 1× versus broccoli microgreens at an estimated 10–100× more](/blog/img/charts/sulforaphane-comparison.svg)
+![Bar chart comparing relative sulforaphane content: mature broccoli at 1× versus broccoli microgreens at an estimated 10–100× more](/img/charts/sulforaphane-comparison.svg)
 
 The reason is biological: a seedling concentrates the chemical defenses it needs to survive its most vulnerable days into a tiny package. You get a large dose of those compounds in a small, raw, easy-to-eat serving — no cooking required (and cooking can degrade the very enzyme needed to form sulforaphane).
 
@@ -45,7 +45,7 @@ Here's roughly how the forms compare:
 
 This is also why microgreens are nutrient-dense in general: research has found many varieties to be **2 to 3.5 times more nutrient-dense** than their mature counterparts grown under the same conditions, with red radish microgreens often topping the list.
 
-![Sulforaphane — photo 1](/blog/img/what-is-sulforaphane-img1.webp)
+![Sulforaphane — photo 1](/img/what-is-sulforaphane-img1.webp)
 
 ## What the research says sulforaphane does
 
@@ -76,17 +76,17 @@ Because the active compound depends on intact enzymes and fresh tissue, a few ha
 
 That last point is the quiet catch. The *freshest* microgreens give you the most — and greens that have wilted for days in a clamshell simply aren't delivering the same value as ones harvested minutes before eating.
 
-![Sulforaphane — photo 2](/blog/img/what-is-sulforaphane-img2.webp)
+![Sulforaphane — photo 2](/img/what-is-sulforaphane-img2.webp)
 
 ## Freshness is the whole game
 
-If sulforaphane depends on fresh, raw, enzyme-rich tissue, then the closer you can get harvest to plate, the better. That's the core idea behind a countertop grower like [Luya](/): a tray of broccoli microgreens growing right where you eat, harvested a few minutes before it hits your bowl — so the compound you're after is at its peak, every single day, instead of degrading in transit.
+If sulforaphane depends on fresh, raw, enzyme-rich tissue, then the closer you can get harvest to plate, the better. That's the core idea behind a countertop grower like [Luya](https://luyaxyz.com/): a tray of broccoli microgreens growing right where you eat, harvested a few minutes before it hits your bowl — so the compound you're after is at its peak, every single day, instead of degrading in transit.
 
 You don't need a machine to benefit from sulforaphane — a windowsill tray works. But however you grow them, the principle is the same: **fresh, raw, and chewed well** is how these tiny greens punch so far above their weight.
 
 ---
 
-*Curious which microgreens pack the most nutrition overall? Read [Microgreens Nutrition: Why They're More Nutrient-Dense](/blog/microgreens-nutrition/), or [see how Luya grows them fresh on your counter →](/how-it-works).*
+*Curious which microgreens pack the most nutrition overall? Read [Microgreens Nutrition: Why They're More Nutrient-Dense](/microgreens-nutrition/), or [see how Luya grows them fresh on your counter →](https://luyaxyz.com/how-it-works).*
 
 ### Selected sources
 - Johns Hopkins University research on sulforaphane in broccoli sprouts/microgreens
