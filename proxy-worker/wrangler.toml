@@ -1,0 +1,9 @@
+name = "luya-blog-proxy"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+workers_dev = false
+
+routes = [
+  { pattern = "luyaxyz.com/blog", zone_name = "luyaxyz.com" },
+  { pattern = "luyaxyz.com/blog/*", zone_name = "luyaxyz.com" }
+]
