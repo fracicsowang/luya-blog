@@ -1,0 +1,21 @@
+---
+const year = new Date().getFullYear();
+const base = import.meta.env.BASE_URL;
+---
+<footer class="footer">
+  <div class="footer-inner">
+    <p><strong>Luya</strong> — fresh microgreens, grown where you eat them.</p>
+    <p class="links">
+      <a href="https://luyaxyz.com/">Home</a> ·
+      <a href="https://luyaxyz.com/how-it-works">How it works</a> ·
+      <a href={base + "/"}>Blog</a>
+    </p>
+    <p class="fine">© {year} Luya. Educational content; not medical advice.</p>
+  </div>
+</footer>
+<style>
+  .footer { border-top: 1px solid #e6ece8; background: #f7faf8; margin-top: 64px; }
+  .footer-inner { max-width: 880px; margin: 0 auto; padding: 32px 20px; color: #5b6b62; font-size: 14px; }
+  .footer .links a { color: #2F9160; text-decoration: none; }
+  .footer .fine { color: #9aa8a0; margin-top: 8px; }
+</style>

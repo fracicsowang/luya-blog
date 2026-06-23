@@ -1,0 +1,59 @@
+# publish-queue.yml — daily schedule for luyaxyz.com/blog/
+# Cadence: 1/day week 1 (ramp, anti-sandbox), then 2/day. ci_publish.py back-fills any missed day.
+
+"2026-06-24":
+  - what-are-microgreens
+"2026-06-25":
+  - microgreens-nutrition
+"2026-06-26":
+  - how-to-grow-microgreens-at-home
+"2026-06-27":
+  - what-is-sulforaphane
+"2026-06-28":
+  - meet-luya-countertop-food-computer
+"2026-06-29":
+  - why-microgreens-keep-molding
+"2026-06-30":
+  - microgreens-salad-ideas
+"2026-07-01":
+  - are-microgreens-good-for-you
+  - easiest-microgreens-to-grow
+"2026-07-02":
+  - store-bought-microgreens-expensive-not-fresh
+  - microgreens-smoothie-recipes
+"2026-07-03":
+  - broccoli-microgreens
+  - high-protein-microgreens
+"2026-07-04":
+  - how-luya-works
+  - microgreens-and-blood-sugar
+"2026-07-05":
+  - radish-microgreens
+  - how-to-eat-microgreens
+"2026-07-06":
+  - microgreens-for-longevity
+  - grow-vs-buy-microgreens
+"2026-07-07":
+  - microgreens-and-cholesterol
+  - pea-shoots
+"2026-07-08":
+  - grow-microgreens-without-soil
+  - pre-seeded-microgreens-trays
+"2026-07-09":
+  - microgreens-vs-sprouts
+  - microgreens-and-inflammation
+"2026-07-10":
+  - kale-microgreens
+  - microgreens-vegan-diet
+"2026-07-11":
+  - maximize-sulforaphane
+  - controlled-environment-agriculture
+"2026-07-12":
+  - microgreens-for-iron
+  - broccoli-microgreens-vs-sulforaphane-supplements
+"2026-07-13":
+  - microgreens-maintenance
+  - future-of-home-farming
+"2026-07-14":
+  - are-store-bought-microgreens-fresh
+  - fresh-microgreens-at-home

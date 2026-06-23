@@ -1,0 +1,17 @@
+{
+  "name": "luya-blog",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Astro blog generator for luyaxyz.com/blog/ — outputs to ../site/blog/",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.7",
+    "astro": "^4.16.0"
+  }
+}

@@ -1,0 +1,23 @@
+---
+const base = import.meta.env.BASE_URL; // "/blog"
+---
+<nav class="nav">
+  <div class="nav-inner">
+    <a class="brand" href="https://luyaxyz.com/">luya</a>
+    <div class="links">
+      <a href={base + "/"}>Blog</a>
+      <a href="https://luyaxyz.com/how-it-works">How it works</a>
+      <a href="https://luyaxyz.com/" class="cta">Shop Luya</a>
+    </div>
+  </div>
+</nav>
+<style>
+  .nav { border-bottom: 1px solid #e6ece8; background: #fff; }
+  .nav-inner { max-width: 880px; margin: 0 auto; padding: 14px 20px; display: flex; align-items: center; justify-content: space-between; }
+  .brand { font-weight: 800; font-size: 22px; color: #2F9160; text-decoration: none; letter-spacing: -0.02em; }
+  .links { display: flex; gap: 22px; align-items: center; }
+  .links a { color: #44524b; text-decoration: none; font-weight: 500; font-size: 15px; }
+  .links a:hover { color: #2F9160; }
+  .links .cta { background: #2F9160; color: #fff; padding: 8px 16px; border-radius: 999px; }
+  .links .cta:hover { background: #277a51; color: #fff; }
+</style>

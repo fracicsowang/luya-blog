@@ -1,0 +1,79 @@
+name: Daily blog publish
+
+# Publishes due articles from publish-queue.yml each day and deploys the static
+# site to Cloudflare Pages. ci_publish.py back-fills every still-unpublished
+# queue date <= today, so a delayed/missed run never silently drops an article.
+#
+# One-time setup (see README): create the Cloudflare Pages project `luya-blog`,
+# and add repo secrets CLOUDFLARE_API_TOKEN, CLOUDFLARE_ACCOUNT_ID,
+# and (optional) GMAIL_APP_PASSWORD.
+
+on:
+  schedule:
+    - cron: "0 10 * * *"   # ~06:00 America/New_York; GitHub cron may lag — back-fill makes the minute irrelevant
+  workflow_dispatch:
+    inputs:
+      force_date:
+        description: 'Pretend "today" is this YYYY-MM-DD (testing/backfill). Blank = real today.'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "publish"
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: site-src/package-lock.json
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Astro deps
+        working-directory: site-src
+        run: npm ci
+
+      - name: Publish due articles (catch-up) + build
+        id: publish
+        env:
+          FORCE_DATE: ${{ inputs.force_date }}
+        run: python3 blog-tools/ci_publish.py
+
+      - name: Commit publish state if changed
+        run: |
+          git config user.name  "luya-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A site-src/src/content/blog
+          if git diff --staged --quiet; then
+            echo "No publish-state changes."
+          else
+            git commit -m "blog: auto-publish $(date -u +%F) [skip ci]"
+            git push
+          fi
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy site --project-name=luya-blog --branch=main --commit-dirty=true
+
+      - name: Email publish summary
+        if: steps.publish.outputs.copied_count != '0' && env.GMAIL != ''
+        continue-on-error: true
+        env:
+          GMAIL: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python3 blog-tools/notify_publish.py --slugs "${{ steps.publish.outputs.copied_slugs }}" --date "${{ steps.publish.outputs.date }}"

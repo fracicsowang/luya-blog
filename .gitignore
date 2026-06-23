@@ -1,0 +1,9 @@
+node_modules/
+site-src/node_modules/
+site-src/dist/
+site-src/.astro/
+.env
+.DS_Store
+*.log
+__pycache__/
+site/

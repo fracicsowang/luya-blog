@@ -1,0 +1,40 @@
+---
+// AJAX Formspree signup. Honeypot (_gotcha) for spam — keep reCAPTCHA OFF
+// (Formspree rejects AJAX submits when reCAPTCHA is on). Reuse the site's form id.
+const FORMSPREE = "https://formspree.io/f/mvgwvykv";
+---
+<section class="nl">
+  <h3>Grow fresh greens at home</h3>
+  <p>Get new microgreens guides + Luya updates. No spam.</p>
+  <form id="nl-form" action={FORMSPREE} method="POST">
+    <input type="email" name="email" placeholder="you@email.com" required aria-label="Email" />
+    <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off" />
+    <input type="hidden" name="source" value="Luya Blog Newsletter" />
+    <button type="submit">Subscribe</button>
+  </form>
+  <p id="nl-msg" class="msg" role="status"></p>
+</section>
+<style>
+  .nl { background: linear-gradient(135deg,#f1f9f4,#e7f3ec); border:1px solid #d8e9df; border-radius:16px; padding:28px; margin:40px 0; text-align:center; }
+  .nl h3 { margin:0 0 6px; font-size:22px; color:#1a2e22; }
+  .nl p { margin:0 0 16px; color:#5b6b62; }
+  .nl form { display:flex; gap:10px; max-width:420px; margin:0 auto; }
+  .nl input[type=email] { flex:1; padding:12px 14px; border:1px solid #cfe0d6; border-radius:10px; font-size:15px; }
+  .nl button { background:#2F9160; color:#fff; border:0; padding:12px 20px; border-radius:10px; font-weight:600; cursor:pointer; }
+  .nl button:hover { background:#277a51; }
+  .nl .msg { min-height:20px; margin-top:12px; font-size:14px; }
+  .nl .msg.ok { color:#2F9160; } .nl .msg.err { color:#c0392b; }
+</style>
+<script>
+  const f = document.getElementById('nl-form');
+  const m = document.getElementById('nl-msg');
+  f?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    m.textContent = 'Subscribing…'; m.className = 'msg';
+    try {
+      const r = await fetch(f.action, { method:'POST', body:new FormData(f), headers:{ Accept:'application/json' } });
+      if (r.ok) { m.textContent = '🌱 You’re in! Check your inbox.'; m.className = 'msg ok'; f.reset(); }
+      else { m.textContent = 'Something went wrong — please try again.'; m.className = 'msg err'; }
+    } catch { m.textContent = 'Network error — please try again.'; m.className = 'msg err'; }
+  });
+</script>
