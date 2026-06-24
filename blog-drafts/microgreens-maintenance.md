@@ -5,7 +5,7 @@ description: Growing microgreens maintenance got you down? Real fixes for the me
 primary_keyword: growing microgreens maintenance
 category: Troubleshooting
 audience: DIY growers
-author: Luya Editorial
+author: Jie Yang
 read_time: "6 min"
 hero_image_prompt: A bright modern kitchen counter with a tidy tray of vibrant green microgreens beside a watering bottle and a small towel, soft morning light, shallow depth of field, photorealistic, no text, no watermark
 image_alt: Home tray illustrating growing microgreens maintenance on a clean kitchen counter

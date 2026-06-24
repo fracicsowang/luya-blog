@@ -5,7 +5,7 @@ description: "The future of home farming is small, smart, and on your counter. H
 primary_keyword: future of home farming
 category: Vision
 audience: All
-author: Luya Editorial
+author: Jie Yang
 read_time: "6 min"
 hero_image_prompt: "A bright modern kitchen at golden hour with a sleek countertop growing appliance full of vivid green microgreens, soft natural light, shallow depth of field, photorealistic, no text, no watermark"
 image_alt: "The future of home farming shown as a countertop appliance growing fresh microgreens in a modern kitchen"

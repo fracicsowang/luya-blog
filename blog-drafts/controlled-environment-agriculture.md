@@ -5,7 +5,7 @@ description: Controlled environment agriculture home setups explained — how se
 primary_keyword: controlled environment agriculture home
 category: Technology
 audience: All
-author: Luya Editorial
+author: Jie Yang
 read_time: "6 min"
 hero_image_prompt: A bright modern kitchen at golden hour with a sleek countertop appliance growing vivid green microgreens behind glass, soft natural window light, shallow depth of field, photorealistic, no text, no watermark
 image_alt: controlled environment agriculture home setup growing fresh microgreens on a kitchen countertop

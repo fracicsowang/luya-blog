@@ -5,7 +5,7 @@ description: "Mold is the #1 reason home microgreens fail. Here's what actually 
 primary_keyword: "microgreens mold"
 category: "Troubleshooting"
 audience: "DIY growers"
-author: "Luya Editorial"
+author: Jie Yang
 read_time: "6 min"
 hero_image_prompt: "A home kitchen counter with a tray of fresh clean microgreens, soft natural window light, fresh and healthy aesthetic, shallow depth of field — decorative lifestyle photo, no text"
 image_alt: "Tray of fresh microgreens growing on a clean kitchen counter"

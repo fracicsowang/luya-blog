@@ -5,7 +5,7 @@ description: "A pre-seeded microgreens tray turns home growing into a drop-in ha
 primary_keyword: pre-seeded microgreens tray
 category: Product
 audience: All
-author: Luya Editorial
+author: Jie Yang
 read_time: "6 min"
 hero_image_prompt: "A photorealistic close-up of a clean countertop kitchen at golden hour, a sleek minimalist appliance with a fresh tray of vibrant green microgreens sliding into it, soft morning light, shallow depth of field, warm and inviting, no text, no watermark"
 image_alt: "A pre-seeded microgreens tray being dropped into a countertop growing appliance"

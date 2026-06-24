@@ -5,7 +5,7 @@ description: "A simple, step-by-step guide to growing microgreens at home — th
 primary_keyword: "how to grow microgreens at home"
 category: "How-To"
 audience: "Beginners"
-author: "Luya Editorial"
+author: Jie Yang
 read_time: "6 min"
 hero_image_prompt: "Overhead flat-lay of microgreen seeds, a shallow tray, and a freshly sprouted tray of microgreens on a light wooden table, bright natural light, clean and inviting — decorative photo, no text"
 image_alt: "Overhead view of microgreens growing supplies and a sprouted tray"

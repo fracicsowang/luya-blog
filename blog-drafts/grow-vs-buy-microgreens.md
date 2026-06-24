@@ -5,7 +5,7 @@ description: "Grow vs buy microgreens: compare real cost per serving, freshness,
 primary_keyword: grow vs buy microgreens
 category: Buying Guide
 audience: Buyers
-author: Luya Editorial
+author: Jie Yang
 read_time: "6 min"
 hero_image_prompt: "A photorealistic split kitchen scene, one half a sunlit countertop with vibrant trays of fresh microgreens, the other half a refrigerator shelf with plastic clamshell containers, soft natural light, shallow depth of field, no text, no watermark"
 image_alt: "grow vs buy microgreens comparison of a fresh home tray next to a store-bought clamshell"

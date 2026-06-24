@@ -5,7 +5,7 @@ description: "The AI microgreens grower explained: how Luya's sealed, climate-co
 primary_keyword: AI microgreens grower
 category: Product
 audience: All
-author: Luya Editorial
+author: Jie Yang
 read_time: "6 min"
 hero_image_prompt: "A photorealistic modern kitchen counter at golden hour with a sleek white countertop appliance growing vivid green microgreens behind glass, soft natural window light, shallow depth of field, clean minimalist styling, no text, no watermark"
 image_alt: "AI microgreens grower appliance growing fresh greens on a kitchen counter"

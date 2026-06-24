@@ -5,7 +5,7 @@ description: The easiest microgreens to grow at home for beginners — 7 fast, f
 primary_keyword: easiest microgreens to grow
 category: How-To
 audience: Beginners
-author: Luya Editorial
+author: Jie Yang
 read_time: "6 min"
 hero_image_prompt: A bright kitchen windowsill with several small trays of vibrant green and purple microgreens at different growth stages, soft morning light, shallow depth of field, photorealistic, no text, no watermark
 image_alt: Trays of the easiest microgreens to grow at home arranged on a sunlit kitchen counter

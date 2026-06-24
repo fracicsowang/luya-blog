@@ -5,7 +5,7 @@ description: Learn how to grow microgreens without soil at home using simple hyd
 primary_keyword: grow microgreens without soil
 category: How-To
 audience: Beginners
-author: Luya Editorial
+author: Jie Yang
 read_time: "6 min"
 hero_image_prompt: A bright modern kitchen counter with a shallow tray of vivid green microgreens growing on a clean white fiber mat, soft morning light through a window, water droplets on fresh leaves, photorealistic, shallow depth of field, no text, no watermark
 image_alt: Tray used to grow microgreens without soil on a clean fiber mat on a kitchen counter
