@@ -8,9 +8,13 @@ name: Daily blog publish
 # and add repo secrets CLOUDFLARE_API_TOKEN, CLOUDFLARE_ACCOUNT_ID,
 # and (optional) GMAIL_APP_PASSWORD.
 
+# NOTE (2026-06): the blog moved INTO the main Lovable app at luyaxyz.com/blog
+# (Supabase-backed), and this Pages subdomain now 301-redirects there. Daily
+# auto-publish is handled by Supabase pg_cron on the blog_posts table, so this
+# Astro publisher's schedule is disabled. Kept dispatch-only as a fallback.
 on:
-  schedule:
-    - cron: "0 10 * * *"   # ~06:00 America/New_York; GitHub cron may lag — back-fill makes the minute irrelevant
+  # schedule:
+  #   - cron: "0 10 * * *"   # disabled — superseded by in-app Supabase pg_cron
   workflow_dispatch:
     inputs:
       force_date:
