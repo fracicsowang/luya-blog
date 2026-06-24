@@ -1,0 +1,4 @@
+# The blog moved into the main Lovable app at luyaxyz.com/blog (Supabase-backed).
+# 301 the old Cloudflare Pages subdomain so link equity + bookmarks follow.
+/                https://luyaxyz.com/blog            301
+/*               https://luyaxyz.com/blog/:splat     301
